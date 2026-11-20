@@ -1,0 +1,711 @@
+asset_class,dataset,model,mean_mase
+FX,AUD_USD Historical Data,ARIMA,0.7631903250962039
+FX,DXY Historical Data,ARIMA,0.7173314055909883
+FX,EUR_USD Historical Data,ARIMA,0.7605088821579856
+FX,GBP_USD Historical Data,ARIMA,0.672478596914489
+FX,NZD_USD Historical Data,ARIMA,0.7358805434142466
+FX,USD_CAD Historical Data,ARIMA,0.7460777719363375
+FX,USD_CHF Historical Data,ARIMA,0.7349606279090748
+FX,USD_JPY Historical Data,ARIMA,0.6787401249919787
+EM FX,USD_AED Historical Data,ARIMA,0.6467569338498296
+EM FX,USD_BRL Historical Data,ARIMA,0.8186351178447616
+EM FX,USD_CNH Historical Data,ARIMA,0.6727972940305189
+EM FX,USD_IDR Historical Data,ARIMA,0.7030261141613019
+EM FX,USD_INR Historical Data,ARIMA,0.7909514312679115
+EM FX,USD_KRW Historical Data,ARIMA,0.7217919426042047
+EM FX,USD_MXN Historical Data,ARIMA,0.7139530962547532
+EM FX,USD_MYR Historical Data,ARIMA,0.6898347685143591
+EM FX,USD_QAR Historical Data,ARIMA,0.6267277190754437
+EM FX,USD_SAR Historical Data,ARIMA,0.7338228289495057
+EM FX,USD_SGD Historical Data,ARIMA,0.784972261798988
+EM FX,USD_THB Historical Data,ARIMA,0.726997211661898
+EM FX,USD_VND Historical Data,ARIMA,0.6588566978384588
+EM FX,USD_ZAR Historical Data,ARIMA,0.7126915059654715
+MSCI,MSCI Argentina Historical Data,ARIMA,0.6979802909857256
+MSCI,MSCI Brazil Price USD Historical Data,ARIMA,0.7692195779150455
+MSCI,MSCI China Net USD Historical Data,ARIMA,0.7194637650998758
+MSCI,MSCI Colombia Historical Data,ARIMA,0.7008071962052181
+MSCI,MSCI Denmark Historical Data,ARIMA,0.7665138583245931
+MSCI,MSCI Egypt Historical Data,ARIMA,0.6052236166079694
+MSCI,MSCI EM Eastern Europe Historical Data,ARIMA,0.7774277439938527
+MSCI,MSCI France Historical Data,ARIMA,0.6893153288290146
+MSCI,MSCI Germany Historical Data,ARIMA,0.755064919078871
+MSCI,MSCI India Historical Data,ARIMA,0.7512629525305209
+MSCI,MSCI Indonesia Historical Data,ARIMA,0.7596111685470934
+MSCI,MSCI Japan Net JPY Historical Data,ARIMA,0.6816865499233677
+MSCI,MSCI Malaysia Historical Data,ARIMA,0.7981246111950927
+MSCI,MSCI Philippines Historical Data,ARIMA,0.742358949072148
+MSCI,MSCI Singapore Historical Data,ARIMA,0.7820928493447455
+MSCI,MSCI Sweden Historical Data,ARIMA,0.7479886318076046
+MSCI,MSCI Thailand Historical Data,ARIMA,0.721219382255603
+MSCI,MSCI United Kingdom Historical Data,ARIMA,0.7155876103431382
+MSCI,MSCI USA Historical Data,ARIMA,0.7719392570742968
+Rates,Euro Bund Futures Historical Data,ARIMA,0.7069607267180188
+Rates,Japan Gov. Bond Futures Historical Data,ARIMA,0.7252427806811147
+Rates,Malaysia 5Y Bond Yield Historical Data,ARIMA,0.6872742601036005
+Rates,Singapore 2Y Bond Yield Historical Data,ARIMA,0.7160073895299479
+Rates,Singapore 5Y Bond Yield Historical Data,ARIMA,0.7272687787948371
+Rates,UK Gilt Futures Historical Data,ARIMA,0.7090032237213997
+Rates,United States 10Y Bond Yield Historical Data,ARIMA,0.7188575502597826
+Rates,United States 1Y Bond Yield Historical Data,ARIMA,0.7581612672182321
+Rates,United States 2Y Bond Yield Historical Data,ARIMA,0.6946317397418629
+Rates,United States 5Y Bond Yield Historical Data,ARIMA,0.7253406785961448
+REIT,Dow Jones Equity All REIT Historical Data,ARIMA,0.6962594607045374
+REIT,FTSE RAFI US 100 Real Estate Historical Data,ARIMA,0.7035336853062322
+REIT,Hui Xian Real Estate Stock Price History,ARIMA,0.6826031672369146
+REIT,Wheeler Real Estate Invest Pref Stock Price History,ARIMA,0.6288254999028677
+REIT,Yuexiu Real Estate Stock Price History,ARIMA,0.6596703309438696
+Equities,BNY Kazakhstan Historical Data,ARIMA,0.6986922432109807
+Equities,DJI Historical Data,ARIMA,0.7726943100868914
+Equities,Euro Historical Data,ARIMA,0.7127446696882079
+Equities,NASDAQ Historical Data,ARIMA,0.7416730066039047
+Equities,S&P500 Historical Data,ARIMA,0.7732726085858052
+Equities,SGX Price History,ARIMA,0.6905205062388508
+ETF,EWM ETF Stock Price History,ARIMA,0.7683271389014485
+ETF,HUN ETF Stock Price History,ARIMA,0.7094196181298216
+ETF,REET ETF Stock Price History,ARIMA,0.7069248133795468
+ETF,VEU ETF Stock Price History,ARIMA,0.7484171021125487
+ETF,VWO ETF Stock Price History,ARIMA,0.7293268084862313
+Crypto,Bitcoin Historical Data,ARIMA,0.7112040286882625
+Crypto,BNB Historical Data,ARIMA,0.5906343820138069
+Crypto,Ethereum Historical Data,ARIMA,0.6947419478912746
+Crypto,XRP Historical Data,ARIMA,0.6701938642344321
+FX,AUD_USD Historical Data,LightGBM,0.8298922306653005
+FX,DXY Historical Data,LightGBM,0.7965539154615977
+FX,EUR_USD Historical Data,LightGBM,0.8394356657021737
+FX,GBP_USD Historical Data,LightGBM,0.787660480050129
+FX,NZD_USD Historical Data,LightGBM,0.7898689257046757
+FX,USD_CAD Historical Data,LightGBM,0.7899979273978613
+FX,USD_CHF Historical Data,LightGBM,0.8040160182860537
+FX,USD_JPY Historical Data,LightGBM,0.7105092372897958
+EM FX,USD_AED Historical Data,LightGBM,0.7157099656636243
+EM FX,USD_BRL Historical Data,LightGBM,0.8604924461608554
+EM FX,USD_CNH Historical Data,LightGBM,0.6972345864298279
+EM FX,USD_IDR Historical Data,LightGBM,0.7356443644925773
+EM FX,USD_INR Historical Data,LightGBM,1.0251017128211477
+EM FX,USD_KRW Historical Data,LightGBM,0.8647199896683345
+EM FX,USD_MXN Historical Data,LightGBM,0.790952754701438
+EM FX,USD_MYR Historical Data,LightGBM,0.7635349442713975
+EM FX,USD_QAR Historical Data,LightGBM,1.8017130118966256
+EM FX,USD_SAR Historical Data,LightGBM,0.7819773459811736
+EM FX,USD_SGD Historical Data,LightGBM,0.780501971089055
+EM FX,USD_THB Historical Data,LightGBM,0.7212628211032894
+EM FX,USD_VND Historical Data,LightGBM,0.632629625068245
+EM FX,USD_ZAR Historical Data,LightGBM,0.7877095324298256
+MSCI,MSCI Argentina Historical Data,LightGBM,0.7602266833330273
+MSCI,MSCI Brazil Price USD Historical Data,LightGBM,0.9552595947359768
+MSCI,MSCI China Net USD Historical Data,LightGBM,0.7830280625348092
+MSCI,MSCI Colombia Historical Data,LightGBM,0.851651042794195
+MSCI,MSCI Denmark Historical Data,LightGBM,0.8232158417628664
+MSCI,MSCI Egypt Historical Data,LightGBM,0.7184020481645654
+MSCI,MSCI EM Eastern Europe Historical Data,LightGBM,1.130168286557684
+MSCI,MSCI France Historical Data,LightGBM,0.8001954022875746
+MSCI,MSCI Germany Historical Data,LightGBM,0.8545439523863221
+MSCI,MSCI India Historical Data,LightGBM,0.8379769533206319
+MSCI,MSCI Indonesia Historical Data,LightGBM,0.8012373203373025
+MSCI,MSCI Japan Net JPY Historical Data,LightGBM,0.7368739935358055
+MSCI,MSCI Malaysia Historical Data,LightGBM,0.8779678897758195
+MSCI,MSCI Philippines Historical Data,LightGBM,0.7592027816377065
+MSCI,MSCI Singapore Historical Data,LightGBM,0.9276607360546956
+MSCI,MSCI Sweden Historical Data,LightGBM,0.854924729507417
+MSCI,MSCI Thailand Historical Data,LightGBM,0.803700034301262
+MSCI,MSCI United Kingdom Historical Data,LightGBM,0.890903409302072
+MSCI,MSCI USA Historical Data,LightGBM,0.9456687399474946
+Rates,Euro Bund Futures Historical Data,LightGBM,0.8185122407902166
+Rates,Japan Gov. Bond Futures Historical Data,LightGBM,0.7739672657584541
+Rates,Malaysia 5Y Bond Yield Historical Data,LightGBM,1.0851964559966285
+Rates,Singapore 2Y Bond Yield Historical Data,LightGBM,1.466727118433776
+Rates,Singapore 5Y Bond Yield Historical Data,LightGBM,1.104328108495621
+Rates,UK Gilt Futures Historical Data,LightGBM,0.7445678522529463
+Rates,United States 10Y Bond Yield Historical Data,LightGBM,1.083147470533916
+Rates,United States 1Y Bond Yield Historical Data,LightGBM,3.2333829509352525
+Rates,United States 2Y Bond Yield Historical Data,LightGBM,1.6364575604438154
+Rates,United States 5Y Bond Yield Historical Data,LightGBM,1.5859093519486818
+REIT,Dow Jones Equity All REIT Historical Data,LightGBM,0.8915459873171441
+REIT,FTSE RAFI US 100 Real Estate Historical Data,LightGBM,0.9075058734726174
+REIT,Hui Xian Real Estate Stock Price History,LightGBM,0.8043945003367112
+REIT,Wheeler Real Estate Invest Pref Stock Price History,LightGBM,0.786488908314331
+REIT,Yuexiu Real Estate Stock Price History,LightGBM,0.7255571884068767
+Equities,BNY Kazakhstan Historical Data,LightGBM,0.9142474904800798
+Equities,DJI Historical Data,LightGBM,0.951159589350303
+Equities,Euro Historical Data,LightGBM,0.876872657910552
+Equities,NASDAQ Historical Data,LightGBM,0.9279710531323488
+Equities,S&P500 Historical Data,LightGBM,0.9533125927927836
+Equities,SGX Price History,LightGBM,0.7051779912347824
+ETF,EWM ETF Stock Price History,LightGBM,0.9309935387296104
+ETF,HUN ETF Stock Price History,LightGBM,0.8015170738829411
+ETF,REET ETF Stock Price History,LightGBM,1.0181134242309848
+ETF,VEU ETF Stock Price History,LightGBM,0.8993340918318365
+ETF,VWO ETF Stock Price History,LightGBM,0.8253239390258278
+Crypto,Bitcoin Historical Data,LightGBM,0.675222283521472
+Crypto,BNB Historical Data,LightGBM,0.7350862128329008
+Crypto,Ethereum Historical Data,LightGBM,0.6995319517522832
+Crypto,XRP Historical Data,LightGBM,0.7534049018803707
+FX,AUD_USD Historical Data,LSTM,0.7721754503660716
+FX,DXY Historical Data,LSTM,0.7222540177862521
+FX,EUR_USD Historical Data,LSTM,0.7456630359900852
+FX,GBP_USD Historical Data,LSTM,0.6756743440290819
+FX,NZD_USD Historical Data,LSTM,0.7243080648072284
+FX,USD_CAD Historical Data,LSTM,0.8543490495082185
+FX,USD_CHF Historical Data,LSTM,0.7357514642707015
+FX,USD_JPY Historical Data,LSTM,0.6703979113637084
+EM FX,USD_AED Historical Data,LSTM,0.6228835687851979
+EM FX,USD_BRL Historical Data,LSTM,0.7457193133753328
+EM FX,USD_CNH Historical Data,LSTM,0.6752322734600291
+EM FX,USD_IDR Historical Data,LSTM,0.7045762863601112
+EM FX,USD_INR Historical Data,LSTM,0.7950290654290051
+EM FX,USD_KRW Historical Data,LSTM,0.7147549770435372
+EM FX,USD_MXN Historical Data,LSTM,0.7209223938461118
+EM FX,USD_MYR Historical Data,LSTM,0.6857034346139912
+EM FX,USD_QAR Historical Data,LSTM,0.6371595095009304
+EM FX,USD_SAR Historical Data,LSTM,0.7388639593814275
+EM FX,USD_SGD Historical Data,LSTM,0.7204869269912265
+EM FX,USD_THB Historical Data,LSTM,0.7202133067671481
+EM FX,USD_VND Historical Data,LSTM,0.6557217161982762
+EM FX,USD_ZAR Historical Data,LSTM,0.7110071104913377
+MSCI,MSCI Argentina Historical Data,LSTM,0.7353211984289687
+MSCI,MSCI Brazil Price USD Historical Data,LSTM,0.7950900954616625
+MSCI,MSCI China Net USD Historical Data,LSTM,0.6912420093311715
+MSCI,MSCI Colombia Historical Data,LSTM,0.726548947399185
+MSCI,MSCI Denmark Historical Data,LSTM,0.7765925462776135
+MSCI,MSCI Egypt Historical Data,LSTM,0.6153237233725941
+MSCI,MSCI EM Eastern Europe Historical Data,LSTM,0.7836695744834888
+MSCI,MSCI France Historical Data,LSTM,0.6903207709465251
+MSCI,MSCI Germany Historical Data,LSTM,0.7592100887973721
+MSCI,MSCI India Historical Data,LSTM,0.7475812981974818
+MSCI,MSCI Indonesia Historical Data,LSTM,0.7534145851569196
+MSCI,MSCI Japan Net JPY Historical Data,LSTM,0.6968970008082859
+MSCI,MSCI Malaysia Historical Data,LSTM,0.7815160887024415
+MSCI,MSCI Philippines Historical Data,LSTM,0.7288806505336232
+MSCI,MSCI Singapore Historical Data,LSTM,0.8871795783322884
+MSCI,MSCI Sweden Historical Data,LSTM,0.7247910005811463
+MSCI,MSCI Thailand Historical Data,LSTM,0.7306381933939561
+MSCI,MSCI United Kingdom Historical Data,LSTM,0.7176711992018117
+MSCI,MSCI USA Historical Data,LSTM,0.7712467940656582
+Rates,Euro Bund Futures Historical Data,LSTM,0.7147048900562768
+Rates,Japan Gov. Bond Futures Historical Data,LSTM,0.7068452720936907
+Rates,Malaysia 5Y Bond Yield Historical Data,LSTM,0.7282211521719566
+Rates,Singapore 2Y Bond Yield Historical Data,LSTM,0.728333932749029
+Rates,Singapore 5Y Bond Yield Historical Data,LSTM,0.7321153611069999
+Rates,UK Gilt Futures Historical Data,LSTM,0.717718210473107
+Rates,United States 10Y Bond Yield Historical Data,LSTM,0.7213840580735658
+Rates,United States 1Y Bond Yield Historical Data,LSTM,0.7051389107241928
+Rates,United States 2Y Bond Yield Historical Data,LSTM,0.6863689406533695
+Rates,United States 5Y Bond Yield Historical Data,LSTM,0.70452481650971
+REIT,Dow Jones Equity All REIT Historical Data,LSTM,0.705020796020425
+REIT,FTSE RAFI US 100 Real Estate Historical Data,LSTM,0.7082560968710262
+REIT,Hui Xian Real Estate Stock Price History,LSTM,0.6925102559847781
+REIT,Wheeler Real Estate Invest Pref Stock Price History,LSTM,0.6356216897645155
+REIT,Yuexiu Real Estate Stock Price History,LSTM,0.6505551238066344
+Equities,BNY Kazakhstan Historical Data,LSTM,0.7206167384063752
+Equities,DJI Historical Data,LSTM,0.7770423726176967
+Equities,Euro Historical Data,LSTM,0.7128843984289822
+Equities,NASDAQ Historical Data,LSTM,0.7421026316972793
+Equities,S&P500 Historical Data,LSTM,0.7725806677584031
+Equities,SGX Price History,LSTM,0.6788648963023396
+ETF,EWM ETF Stock Price History,LSTM,0.7673749316592664
+ETF,HUN ETF Stock Price History,LSTM,0.7224614190358335
+ETF,REET ETF Stock Price History,LSTM,0.7273514966589206
+ETF,VEU ETF Stock Price History,LSTM,0.8330385208216347
+ETF,VWO ETF Stock Price History,LSTM,0.7395284624322688
+Crypto,Bitcoin Historical Data,LSTM,0.6581438305283456
+Crypto,BNB Historical Data,LSTM,0.5861133822122171
+Crypto,Ethereum Historical Data,LSTM,0.7199588356205998
+Crypto,XRP Historical Data,LSTM,0.7318189147991576
+FX,AUD_USD Historical Data,Sundial,0.7743857945404573
+FX,DXY Historical Data,Sundial,0.7529789981792847
+FX,EUR_USD Historical Data,Sundial,0.7618556812483315
+FX,GBP_USD Historical Data,Sundial,0.6927593467796478
+FX,NZD_USD Historical Data,Sundial,0.7585425370529439
+FX,USD_CAD Historical Data,Sundial,0.7393522376501582
+FX,USD_CHF Historical Data,Sundial,0.7449134046857702
+FX,USD_JPY Historical Data,Sundial,0.6740526279038104
+EM FX,USD_AED Historical Data,Sundial,0.6307734507894354
+EM FX,USD_BRL Historical Data,Sundial,0.74926517892471
+EM FX,USD_CNH Historical Data,Sundial,0.7130352041792591
+EM FX,USD_IDR Historical Data,Sundial,0.7093750019891233
+EM FX,USD_INR Historical Data,Sundial,0.8005412481576158
+EM FX,USD_KRW Historical Data,Sundial,0.7196923154705357
+EM FX,USD_MXN Historical Data,Sundial,0.7196925874707741
+EM FX,USD_MYR Historical Data,Sundial,0.6899044953340073
+EM FX,USD_QAR Historical Data,Sundial,0.6608576930175625
+EM FX,USD_SAR Historical Data,Sundial,0.7363269488063712
+EM FX,USD_SGD Historical Data,Sundial,0.7415900075800959
+EM FX,USD_THB Historical Data,Sundial,0.7207779944914565
+EM FX,USD_VND Historical Data,Sundial,0.6714875481591122
+EM FX,USD_ZAR Historical Data,Sundial,0.7195133741228854
+MSCI,MSCI Argentina Historical Data,Sundial,0.7125947621059003
+MSCI,MSCI Brazil Price USD Historical Data,Sundial,0.7927705588715677
+MSCI,MSCI China Net USD Historical Data,Sundial,0.694560333014146
+MSCI,MSCI Colombia Historical Data,Sundial,0.7068460851615084
+MSCI,MSCI Denmark Historical Data,Sundial,0.77179950371155
+MSCI,MSCI Egypt Historical Data,Sundial,0.6215415144720472
+MSCI,MSCI EM Eastern Europe Historical Data,Sundial,0.7788328237898555
+MSCI,MSCI France Historical Data,Sundial,0.7013189069412453
+MSCI,MSCI Germany Historical Data,Sundial,0.7529241007646823
+MSCI,MSCI India Historical Data,Sundial,0.7414945549788229
+MSCI,MSCI Indonesia Historical Data,Sundial,0.7614669047777647
+MSCI,MSCI Japan Net JPY Historical Data,Sundial,0.7021774489781349
+MSCI,MSCI Malaysia Historical Data,Sundial,0.7780143750076058
+MSCI,MSCI Philippines Historical Data,Sundial,0.738364650887797
+MSCI,MSCI Singapore Historical Data,Sundial,0.7657349425031074
+MSCI,MSCI Sweden Historical Data,Sundial,0.7394669764762056
+MSCI,MSCI Thailand Historical Data,Sundial,0.724927319363069
+MSCI,MSCI United Kingdom Historical Data,Sundial,0.713452371760339
+MSCI,MSCI USA Historical Data,Sundial,0.7750418405019464
+Rates,Euro Bund Futures Historical Data,Sundial,0.7200373662116684
+Rates,Japan Gov. Bond Futures Historical Data,Sundial,0.704267906792297
+Rates,Malaysia 5Y Bond Yield Historical Data,Sundial,0.6955426457670788
+Rates,Singapore 2Y Bond Yield Historical Data,Sundial,0.7215435011652931
+Rates,Singapore 5Y Bond Yield Historical Data,Sundial,0.730926500214864
+Rates,UK Gilt Futures Historical Data,Sundial,0.7173143246983568
+Rates,United States 10Y Bond Yield Historical Data,Sundial,0.716402289409455
+Rates,United States 1Y Bond Yield Historical Data,Sundial,0.7080196528016655
+Rates,United States 2Y Bond Yield Historical Data,Sundial,0.7008098810510481
+Rates,United States 5Y Bond Yield Historical Data,Sundial,0.7059862725862851
+REIT,Dow Jones Equity All REIT Historical Data,Sundial,0.7041505581435726
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Sundial,0.7146450367315796
+REIT,Hui Xian Real Estate Stock Price History,Sundial,0.6930526888235522
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Sundial,0.6241519531910817
+REIT,Yuexiu Real Estate Stock Price History,Sundial,0.6529210274672461
+Equities,BNY Kazakhstan Historical Data,Sundial,0.6988038885868656
+Equities,DJI Historical Data,Sundial,0.7813144606904746
+Equities,Euro Historical Data,Sundial,0.722776146483669
+Equities,NASDAQ Historical Data,Sundial,0.749681687610293
+Equities,S&P500 Historical Data,Sundial,0.7760752140569539
+Equities,SGX Price History,Sundial,0.681691760788133
+ETF,EWM ETF Stock Price History,Sundial,0.7769355825042916
+ETF,HUN ETF Stock Price History,Sundial,0.7289139922425479
+ETF,REET ETF Stock Price History,Sundial,0.7247689541189576
+ETF,VEU ETF Stock Price History,Sundial,0.7651040106874506
+ETF,VWO ETF Stock Price History,Sundial,0.7474706456826328
+Crypto,Bitcoin Historical Data,Sundial,0.6727125612783738
+Crypto,BNB Historical Data,Sundial,0.5992871650358652
+Crypto,Ethereum Historical Data,Sundial,0.712952824577947
+Crypto,XRP Historical Data,Sundial,0.6789604894934624
+FX,AUD_USD Historical Data,Lag-Llama,0.7718710400176578
+FX,DXY Historical Data,Lag-Llama,0.7273868031575563
+FX,EUR_USD Historical Data,Lag-Llama,0.7559381611211542
+FX,GBP_USD Historical Data,Lag-Llama,0.6788952484518432
+FX,NZD_USD Historical Data,Lag-Llama,0.7293656991159948
+FX,USD_CAD Historical Data,Lag-Llama,0.7671699265403087
+FX,USD_CHF Historical Data,Lag-Llama,0.7530980389739582
+FX,USD_JPY Historical Data,Lag-Llama,0.6809103315495496
+EM FX,USD_AED Historical Data,Lag-Llama,0.6146587964103699
+EM FX,USD_BRL Historical Data,Lag-Llama,0.7783441775895674
+EM FX,USD_CNH Historical Data,Lag-Llama,0.6843180769680668
+EM FX,USD_IDR Historical Data,Lag-Llama,0.7150472192359628
+EM FX,USD_INR Historical Data,Lag-Llama,0.831293377309654
+EM FX,USD_KRW Historical Data,Lag-Llama,0.7354672341003177
+EM FX,USD_MXN Historical Data,Lag-Llama,0.7420002381373092
+EM FX,USD_MYR Historical Data,Lag-Llama,0.6756832116007463
+EM FX,USD_QAR Historical Data,Lag-Llama,0.7875652794966651
+EM FX,USD_SAR Historical Data,Lag-Llama,0.7591649118894719
+EM FX,USD_SGD Historical Data,Lag-Llama,0.7504142042982214
+EM FX,USD_THB Historical Data,Lag-Llama,0.7321013668618217
+EM FX,USD_VND Historical Data,Lag-Llama,0.6879036604683424
+EM FX,USD_ZAR Historical Data,Lag-Llama,0.7138279225852828
+MSCI,MSCI Argentina Historical Data,Lag-Llama,0.7185063336707922
+MSCI,MSCI Brazil Price USD Historical Data,Lag-Llama,0.7731683542250645
+MSCI,MSCI China Net USD Historical Data,Lag-Llama,0.710802643218377
+MSCI,MSCI Colombia Historical Data,Lag-Llama,0.7333607783980385
+MSCI,MSCI Denmark Historical Data,Lag-Llama,0.756384442179385
+MSCI,MSCI Egypt Historical Data,Lag-Llama,0.6564974018979456
+MSCI,MSCI EM Eastern Europe Historical Data,Lag-Llama,0.7822355736239872
+MSCI,MSCI France Historical Data,Lag-Llama,0.6936950737335562
+MSCI,MSCI Germany Historical Data,Lag-Llama,0.755981687811611
+MSCI,MSCI India Historical Data,Lag-Llama,0.7633800702052009
+MSCI,MSCI Indonesia Historical Data,Lag-Llama,0.7611181807476181
+MSCI,MSCI Japan Net JPY Historical Data,Lag-Llama,0.6988069702916058
+MSCI,MSCI Malaysia Historical Data,Lag-Llama,0.8051459155174399
+MSCI,MSCI Philippines Historical Data,Lag-Llama,0.7281685759014949
+MSCI,MSCI Singapore Historical Data,Lag-Llama,0.8291346806628347
+MSCI,MSCI Sweden Historical Data,Lag-Llama,0.7284853415694759
+MSCI,MSCI Thailand Historical Data,Lag-Llama,0.713787111746932
+MSCI,MSCI United Kingdom Historical Data,Lag-Llama,0.7244108002940551
+MSCI,MSCI USA Historical Data,Lag-Llama,0.7695729016208729
+Rates,Euro Bund Futures Historical Data,Lag-Llama,0.732231474988615
+Rates,Japan Gov. Bond Futures Historical Data,Lag-Llama,0.7044226726738462
+Rates,Malaysia 5Y Bond Yield Historical Data,Lag-Llama,0.6920192692708804
+Rates,Singapore 2Y Bond Yield Historical Data,Lag-Llama,0.7222171948884515
+Rates,Singapore 5Y Bond Yield Historical Data,Lag-Llama,0.7140740686760999
+Rates,UK Gilt Futures Historical Data,Lag-Llama,0.7276732791804263
+Rates,United States 10Y Bond Yield Historical Data,Lag-Llama,0.6966919961285897
+Rates,United States 1Y Bond Yield Historical Data,Lag-Llama,0.7527103599575317
+Rates,United States 2Y Bond Yield Historical Data,Lag-Llama,0.7140759445839777
+Rates,United States 5Y Bond Yield Historical Data,Lag-Llama,0.6842767567585208
+REIT,Dow Jones Equity All REIT Historical Data,Lag-Llama,0.7223965270336989
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Lag-Llama,0.7293794724052305
+REIT,Hui Xian Real Estate Stock Price History,Lag-Llama,0.683457609091242
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Lag-Llama,0.6756583273596026
+REIT,Yuexiu Real Estate Stock Price History,Lag-Llama,0.655793665255362
+Equities,BNY Kazakhstan Historical Data,Lag-Llama,0.7104428553308912
+Equities,DJI Historical Data,Lag-Llama,0.7785602466667719
+Equities,Euro Historical Data,Lag-Llama,0.7153047540314978
+Equities,NASDAQ Historical Data,Lag-Llama,0.7456139195063161
+Equities,S&P500 Historical Data,Lag-Llama,0.7686375307578455
+Equities,SGX Price History,Lag-Llama,0.6806557102159595
+ETF,EWM ETF Stock Price History,Lag-Llama,0.7793470640774145
+ETF,HUN ETF Stock Price History,Lag-Llama,0.7379360305347736
+ETF,REET ETF Stock Price History,Lag-Llama,0.7486374664532864
+ETF,VEU ETF Stock Price History,Lag-Llama,0.7623439191749345
+ETF,VWO ETF Stock Price History,Lag-Llama,0.7640568238606851
+Crypto,Bitcoin Historical Data,Lag-Llama,0.6584226669337562
+Crypto,BNB Historical Data,Lag-Llama,0.5845527947886322
+Crypto,Ethereum Historical Data,Lag-Llama,0.6879445110646122
+Crypto,XRP Historical Data,Lag-Llama,0.6757834255139972
+FX,AUD_USD Historical Data,Chronos-T5,0.7737681084236849
+FX,DXY Historical Data,Chronos-T5,0.730249061837016
+FX,EUR_USD Historical Data,Chronos-T5,0.7480821666263837
+FX,GBP_USD Historical Data,Chronos-T5,0.6966389194420353
+FX,NZD_USD Historical Data,Chronos-T5,0.7390713247259286
+FX,USD_CAD Historical Data,Chronos-T5,0.744440390010675
+FX,USD_CHF Historical Data,Chronos-T5,0.7347384203259274
+FX,USD_JPY Historical Data,Chronos-T5,0.6735511841192138
+EM FX,USD_AED Historical Data,Chronos-T5,0.746788687630321
+EM FX,USD_BRL Historical Data,Chronos-T5,0.752342481788928
+EM FX,USD_CNH Historical Data,Chronos-T5,0.6843371776383159
+EM FX,USD_IDR Historical Data,Chronos-T5,0.7103591438000226
+EM FX,USD_INR Historical Data,Chronos-T5,0.796276553892029
+EM FX,USD_KRW Historical Data,Chronos-T5,0.7154898340733508
+EM FX,USD_MXN Historical Data,Chronos-T5,0.7329588700085508
+EM FX,USD_MYR Historical Data,Chronos-T5,0.6920645971455817
+EM FX,USD_QAR Historical Data,Chronos-T5,0.6275068984343547
+EM FX,USD_SAR Historical Data,Chronos-T5,0.7432926374808665
+EM FX,USD_SGD Historical Data,Chronos-T5,0.7152190880202026
+EM FX,USD_THB Historical Data,Chronos-T5,0.7278036077859724
+EM FX,USD_VND Historical Data,Chronos-T5,0.6568733046865457
+EM FX,USD_ZAR Historical Data,Chronos-T5,0.7021610313596531
+MSCI,MSCI Argentina Historical Data,Chronos-T5,0.7109563717558499
+MSCI,MSCI Brazil Price USD Historical Data,Chronos-T5,0.7891117421672406
+MSCI,MSCI China Net USD Historical Data,Chronos-T5,0.6932649286448893
+MSCI,MSCI Colombia Historical Data,Chronos-T5,0.6986768508431082
+MSCI,MSCI Denmark Historical Data,Chronos-T5,0.7866313105304952
+MSCI,MSCI Egypt Historical Data,Chronos-T5,0.6024074431563976
+MSCI,MSCI EM Eastern Europe Historical Data,Chronos-T5,0.7769044948744965
+MSCI,MSCI France Historical Data,Chronos-T5,0.6943993850735213
+MSCI,MSCI Germany Historical Data,Chronos-T5,0.7339594424573669
+MSCI,MSCI India Historical Data,Chronos-T5,0.7482381891351109
+MSCI,MSCI Indonesia Historical Data,Chronos-T5,0.7629997507646828
+MSCI,MSCI Japan Net JPY Historical Data,Chronos-T5,0.7047015468400467
+MSCI,MSCI Malaysia Historical Data,Chronos-T5,0.7871670981088601
+MSCI,MSCI Philippines Historical Data,Chronos-T5,0.735486819841815
+MSCI,MSCI Singapore Historical Data,Chronos-T5,0.7363617726607454
+MSCI,MSCI Sweden Historical Data,Chronos-T5,0.740909718058378
+MSCI,MSCI Thailand Historical Data,Chronos-T5,0.7219910727130092
+MSCI,MSCI United Kingdom Historical Data,Chronos-T5,0.7161686599859909
+MSCI,MSCI USA Historical Data,Chronos-T5,0.76715021113689
+Rates,Euro Bund Futures Historical Data,Chronos-T5,0.7183605864773528
+Rates,Japan Gov. Bond Futures Historical Data,Chronos-T5,0.7063934118572517
+Rates,Malaysia 5Y Bond Yield Historical Data,Chronos-T5,0.6960100739967778
+Rates,Singapore 2Y Bond Yield Historical Data,Chronos-T5,0.7341366860178733
+Rates,Singapore 5Y Bond Yield Historical Data,Chronos-T5,0.7340165697885188
+Rates,UK Gilt Futures Historical Data,Chronos-T5,0.7165972147212647
+Rates,United States 10Y Bond Yield Historical Data,Chronos-T5,0.7423859846883324
+Rates,United States 1Y Bond Yield Historical Data,Chronos-T5,0.6803664192460985
+Rates,United States 2Y Bond Yield Historical Data,Chronos-T5,0.7084185306595392
+Rates,United States 5Y Bond Yield Historical Data,Chronos-T5,0.7359014693490848
+REIT,Dow Jones Equity All REIT Historical Data,Chronos-T5,0.6992018627136809
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Chronos-T5,0.7020135438425834
+REIT,Hui Xian Real Estate Stock Price History,Chronos-T5,0.6829643701271813
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Chronos-T5,0.6090250603030466
+REIT,Yuexiu Real Estate Stock Price History,Chronos-T5,0.6665976769049219
+Equities,BNY Kazakhstan Historical Data,Chronos-T5,0.7094042328111787
+Equities,DJI Historical Data,Chronos-T5,0.7682358999086457
+Equities,Euro Historical Data,Chronos-T5,0.7118707640586412
+Equities,NASDAQ Historical Data,Chronos-T5,0.7461640569250397
+Equities,S&P500 Historical Data,Chronos-T5,0.7683464726655784
+Equities,SGX Price History,Chronos-T5,0.6781531327585443
+ETF,EWM ETF Stock Price History,Chronos-T5,0.7676262908236289
+ETF,HUN ETF Stock Price History,Chronos-T5,0.7161139641368346
+ETF,REET ETF Stock Price History,Chronos-T5,0.7106160928937214
+ETF,VEU ETF Stock Price History,Chronos-T5,0.7583641415308279
+ETF,VWO ETF Stock Price History,Chronos-T5,0.7289839335618614
+Crypto,Bitcoin Historical Data,Chronos-T5,0.6547405975210651
+Crypto,BNB Historical Data,Chronos-T5,0.6006324034444688
+Crypto,Ethereum Historical Data,Chronos-T5,0.7104313014139207
+Crypto,XRP Historical Data,Chronos-T5,0.6728757224981321
+FX,AUD_USD Historical Data,Toto,0.7677190716087432
+FX,DXY Historical Data,Toto,0.7239385122059734
+FX,EUR_USD Historical Data,Toto,0.7439020315096935
+FX,GBP_USD Historical Data,Toto,0.6796827476629229
+FX,NZD_USD Historical Data,Toto,0.7332019040507898
+FX,USD_CAD Historical Data,Toto,0.7447718591435566
+FX,USD_CHF Historical Data,Toto,0.736622322673808
+FX,USD_JPY Historical Data,Toto,0.6662236135142128
+EM FX,USD_AED Historical Data,Toto,0.6185829762760608
+EM FX,USD_BRL Historical Data,Toto,0.7460014723817859
+EM FX,USD_CNH Historical Data,Toto,0.6759775808720867
+EM FX,USD_IDR Historical Data,Toto,0.7100624658787625
+EM FX,USD_INR Historical Data,Toto,0.7899730215137779
+EM FX,USD_KRW Historical Data,Toto,0.7134693504074734
+EM FX,USD_MXN Historical Data,Toto,0.7281117195122078
+EM FX,USD_MYR Historical Data,Toto,0.6901011942410293
+EM FX,USD_QAR Historical Data,Toto,0.6201842675544735
+EM FX,USD_SAR Historical Data,Toto,0.7366200071479447
+EM FX,USD_SGD Historical Data,Toto,0.7236142674669372
+EM FX,USD_THB Historical Data,Toto,0.722829408775558
+EM FX,USD_VND Historical Data,Toto,0.6871973515684812
+EM FX,USD_ZAR Historical Data,Toto,0.7064142091806116
+MSCI,MSCI Argentina Historical Data,Toto,0.7135706647781725
+MSCI,MSCI Brazil Price USD Historical Data,Toto,0.7676989355423923
+MSCI,MSCI China Net USD Historical Data,Toto,0.8242304232121663
+MSCI,MSCI Colombia Historical Data,Toto,0.6997402505797172
+MSCI,MSCI Denmark Historical Data,Toto,0.7708989581764599
+MSCI,MSCI Egypt Historical Data,Toto,0.6056843935486101
+MSCI,MSCI EM Eastern Europe Historical Data,Toto,0.7740487111597808
+MSCI,MSCI France Historical Data,Toto,0.6958228518964015
+MSCI,MSCI Germany Historical Data,Toto,0.7443018556813328
+MSCI,MSCI India Historical Data,Toto,0.7356296837395077
+MSCI,MSCI Indonesia Historical Data,Toto,0.7547512662687529
+MSCI,MSCI Japan Net JPY Historical Data,Toto,0.7076392401207855
+MSCI,MSCI Malaysia Historical Data,Toto,0.7771978958491176
+MSCI,MSCI Philippines Historical Data,Toto,0.7303939153220129
+MSCI,MSCI Singapore Historical Data,Toto,0.7502406329811346
+MSCI,MSCI Sweden Historical Data,Toto,0.7309522308961878
+MSCI,MSCI Thailand Historical Data,Toto,0.7208164410996936
+MSCI,MSCI United Kingdom Historical Data,Toto,0.713121170949055
+MSCI,MSCI USA Historical Data,Toto,0.7687427514473978
+Rates,Euro Bund Futures Historical Data,Toto,0.7207240312980661
+Rates,Japan Gov. Bond Futures Historical Data,Toto,0.7066588764775703
+Rates,Malaysia 5Y Bond Yield Historical Data,Toto,0.6991903566643158
+Rates,Singapore 2Y Bond Yield Historical Data,Toto,0.718625393492785
+Rates,Singapore 5Y Bond Yield Historical Data,Toto,0.7242166501250659
+Rates,UK Gilt Futures Historical Data,Toto,0.7150485431263817
+Rates,United States 10Y Bond Yield Historical Data,Toto,0.718957089273734
+Rates,United States 1Y Bond Yield Historical Data,Toto,0.6625311056975365
+Rates,United States 2Y Bond Yield Historical Data,Toto,0.688035607480944
+Rates,United States 5Y Bond Yield Historical Data,Toto,0.7025062064565708
+REIT,Dow Jones Equity All REIT Historical Data,Toto,0.6979820003665751
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Toto,0.7025358554272513
+REIT,Hui Xian Real Estate Stock Price History,Toto,0.6849268073343401
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Toto,0.6184776137830076
+REIT,Yuexiu Real Estate Stock Price History,Toto,0.6560742041978541
+Equities,BNY Kazakhstan Historical Data,Toto,0.7010064972924741
+Equities,DJI Historical Data,Toto,0.773132711616009
+Equities,Euro Historical Data,Toto,0.7110388695759655
+Equities,NASDAQ Historical Data,Toto,0.7465515858254711
+Equities,S&P500 Historical Data,Toto,0.7698200262077044
+Equities,SGX Price History,Toto,0.6767182972410755
+ETF,EWM ETF Stock Price History,Toto,0.7674282050711249
+ETF,HUN ETF Stock Price History,Toto,0.7173362158211509
+ETF,REET ETF Stock Price History,Toto,0.713128590505643
+ETF,VEU ETF Stock Price History,Toto,0.7510088290308649
+ETF,VWO ETF Stock Price History,Toto,0.737388416346621
+Crypto,Bitcoin Historical Data,Toto,0.6594376280089509
+Crypto,BNB Historical Data,Toto,0.5857004019369807
+Crypto,Ethereum Historical Data,Toto,0.7076450891988317
+Crypto,XRP Historical Data,Toto,0.7007652378371584
+FX,AUD_USD Historical Data,TimesFM,0.7830622279274236
+FX,DXY Historical Data,TimesFM,0.7521545958189535
+FX,EUR_USD Historical Data,TimesFM,0.7586310243494218
+FX,GBP_USD Historical Data,TimesFM,0.6939034269648143
+FX,NZD_USD Historical Data,TimesFM,0.7378220039595687
+FX,USD_CAD Historical Data,TimesFM,0.7460117522998818
+FX,USD_CHF Historical Data,TimesFM,0.7465623551158833
+FX,USD_JPY Historical Data,TimesFM,0.680237550712602
+EM FX,USD_AED Historical Data,TimesFM,0.6342934068313415
+EM FX,USD_BRL Historical Data,TimesFM,0.7606856158015345
+EM FX,USD_CNH Historical Data,TimesFM,0.6954713091392887
+EM FX,USD_IDR Historical Data,TimesFM,0.7214325551810761
+EM FX,USD_INR Historical Data,TimesFM,0.7960091975169944
+EM FX,USD_KRW Historical Data,TimesFM,0.7208241597424903
+EM FX,USD_MXN Historical Data,TimesFM,0.7252125264356054
+EM FX,USD_MYR Historical Data,TimesFM,0.709047890084544
+EM FX,USD_QAR Historical Data,TimesFM,0.6415390921699136
+EM FX,USD_SAR Historical Data,TimesFM,0.7415084019859175
+EM FX,USD_SGD Historical Data,TimesFM,0.7340986890838426
+EM FX,USD_THB Historical Data,TimesFM,0.7166661402609005
+EM FX,USD_VND Historical Data,TimesFM,0.6721049086379545
+EM FX,USD_ZAR Historical Data,TimesFM,0.7029251362214408
+MSCI,MSCI Argentina Historical Data,TimesFM,0.7172414515851713
+MSCI,MSCI Brazil Price USD Historical Data,TimesFM,0.7847742714471938
+MSCI,MSCI China Net USD Historical Data,TimesFM,0.6923430836291341
+MSCI,MSCI Colombia Historical Data,TimesFM,0.7029504097716955
+MSCI,MSCI Denmark Historical Data,TimesFM,0.7688474336214735
+MSCI,MSCI Egypt Historical Data,TimesFM,0.6168413146162427
+MSCI,MSCI EM Eastern Europe Historical Data,TimesFM,0.7859171029783225
+MSCI,MSCI France Historical Data,TimesFM,0.6981669266931816
+MSCI,MSCI Germany Historical Data,TimesFM,0.7434744074288201
+MSCI,MSCI India Historical Data,TimesFM,0.7343026676531682
+MSCI,MSCI Indonesia Historical Data,TimesFM,0.7658265758222934
+MSCI,MSCI Japan Net JPY Historical Data,TimesFM,0.7070958012629827
+MSCI,MSCI Malaysia Historical Data,TimesFM,0.7751688676581964
+MSCI,MSCI Philippines Historical Data,TimesFM,0.7466161779046978
+MSCI,MSCI Singapore Historical Data,TimesFM,0.7477667527122487
+MSCI,MSCI Sweden Historical Data,TimesFM,0.7341210428550382
+MSCI,MSCI Thailand Historical Data,TimesFM,0.7390987333051666
+MSCI,MSCI United Kingdom Historical Data,TimesFM,0.718107564321422
+MSCI,MSCI USA Historical Data,TimesFM,0.7716164177711341
+Rates,Euro Bund Futures Historical Data,TimesFM,0.719869303644861
+Rates,Japan Gov. Bond Futures Historical Data,TimesFM,0.6998510359027104
+Rates,Malaysia 5Y Bond Yield Historical Data,TimesFM,0.7368396022925714
+Rates,Singapore 2Y Bond Yield Historical Data,TimesFM,0.7263567801187137
+Rates,Singapore 5Y Bond Yield Historical Data,TimesFM,0.7411452554331225
+Rates,UK Gilt Futures Historical Data,TimesFM,0.716676548410203
+Rates,United States 10Y Bond Yield Historical Data,TimesFM,0.7237523653237801
+Rates,United States 1Y Bond Yield Historical Data,TimesFM,0.6812632897290347
+Rates,United States 2Y Bond Yield Historical Data,TimesFM,0.7007367215798013
+Rates,United States 5Y Bond Yield Historical Data,TimesFM,0.7137428201180223
+REIT,Dow Jones Equity All REIT Historical Data,TimesFM,0.7000542658485543
+REIT,FTSE RAFI US 100 Real Estate Historical Data,TimesFM,0.704253818295747
+REIT,Hui Xian Real Estate Stock Price History,TimesFM,0.6927097740989553
+REIT,Wheeler Real Estate Invest Pref Stock Price History,TimesFM,0.6254882897649232
+REIT,Yuexiu Real Estate Stock Price History,TimesFM,0.6568886916389649
+Equities,BNY Kazakhstan Historical Data,TimesFM,0.7135747905978509
+Equities,DJI Historical Data,TimesFM,0.7741765220400768
+Equities,Euro Historical Data,TimesFM,0.7171335757253686
+Equities,NASDAQ Historical Data,TimesFM,0.7483004856043829
+Equities,S&P500 Historical Data,TimesFM,0.7729989085043686
+Equities,SGX Price History,TimesFM,0.6893235696992985
+ETF,EWM ETF Stock Price History,TimesFM,0.792300403905591
+ETF,HUN ETF Stock Price History,TimesFM,0.7342115717717259
+ETF,REET ETF Stock Price History,TimesFM,0.7177498006125678
+ETF,VEU ETF Stock Price History,TimesFM,0.7554614990693119
+ETF,VWO ETF Stock Price History,TimesFM,0.7360960693014081
+Crypto,Bitcoin Historical Data,TimesFM,0.6728628966648166
+Crypto,BNB Historical Data,TimesFM,0.5981528977787287
+Crypto,Ethereum Historical Data,TimesFM,0.7100604045417515
+Crypto,XRP Historical Data,TimesFM,0.6758403695362316
+FX,AUD_USD Historical Data,Moirai,0.7711275854558174
+FX,DXY Historical Data,Moirai,0.7300454367455776
+FX,EUR_USD Historical Data,Moirai,0.749008741880119
+FX,GBP_USD Historical Data,Moirai,0.6901132452591909
+FX,NZD_USD Historical Data,Moirai,0.7320138565310408
+FX,USD_CAD Historical Data,Moirai,0.7446864272322332
+FX,USD_CHF Historical Data,Moirai,0.7412872434673174
+FX,USD_JPY Historical Data,Moirai,0.6738161000347296
+EM FX,USD_AED Historical Data,Moirai,0.6233053391029556
+EM FX,USD_BRL Historical Data,Moirai,0.7553887443093907
+EM FX,USD_CNH Historical Data,Moirai,0.6832547981283075
+EM FX,USD_IDR Historical Data,Moirai,0.7114793508593776
+EM FX,USD_INR Historical Data,Moirai,0.7869632372650377
+EM FX,USD_KRW Historical Data,Moirai,0.7170701257290154
+EM FX,USD_MXN Historical Data,Moirai,0.7285618379979576
+EM FX,USD_MYR Historical Data,Moirai,0.6922606011406547
+EM FX,USD_QAR Historical Data,Moirai,0.6371602563499803
+EM FX,USD_SAR Historical Data,Moirai,0.7406025013792396
+EM FX,USD_SGD Historical Data,Moirai,0.7240536279423007
+EM FX,USD_THB Historical Data,Moirai,0.719059642368913
+EM FX,USD_VND Historical Data,Moirai,0.6751498705156556
+EM FX,USD_ZAR Historical Data,Moirai,0.6926154819975955
+MSCI,MSCI Argentina Historical Data,Moirai,0.7165004304694068
+MSCI,MSCI Brazil Price USD Historical Data,Moirai,0.7769487691194581
+MSCI,MSCI China Net USD Historical Data,Moirai,0.6916054987256594
+MSCI,MSCI Colombia Historical Data,Moirai,0.6985467484878298
+MSCI,MSCI Denmark Historical Data,Moirai,0.7728191311505732
+MSCI,MSCI Egypt Historical Data,Moirai,0.6047585639468582
+MSCI,MSCI EM Eastern Europe Historical Data,Moirai,0.7769517081521817
+MSCI,MSCI France Historical Data,Moirai,0.69418913072536
+MSCI,MSCI Germany Historical Data,Moirai,0.7360735552520451
+MSCI,MSCI India Historical Data,Moirai,0.7437523330768805
+MSCI,MSCI Indonesia Historical Data,Moirai,0.7599725340664268
+MSCI,MSCI Japan Net JPY Historical Data,Moirai,0.7034228096586191
+MSCI,MSCI Malaysia Historical Data,Moirai,0.7773929669510827
+MSCI,MSCI Philippines Historical Data,Moirai,0.7380374809099431
+MSCI,MSCI Singapore Historical Data,Moirai,0.7467393312955273
+MSCI,MSCI Sweden Historical Data,Moirai,0.7331696774463301
+MSCI,MSCI Thailand Historical Data,Moirai,0.7258943382202035
+MSCI,MSCI United Kingdom Historical Data,Moirai,0.7139806017664332
+MSCI,MSCI USA Historical Data,Moirai,0.7708186335833728
+Rates,Euro Bund Futures Historical Data,Moirai,0.7155282002070973
+Rates,Japan Gov. Bond Futures Historical Data,Moirai,0.6993623401907756
+Rates,Malaysia 5Y Bond Yield Historical Data,Moirai,0.7086298942869218
+Rates,Singapore 2Y Bond Yield Historical Data,Moirai,0.7223733423450087
+Rates,Singapore 5Y Bond Yield Historical Data,Moirai,0.7349861988353108
+Rates,UK Gilt Futures Historical Data,Moirai,0.7134125476197808
+Rates,United States 10Y Bond Yield Historical Data,Moirai,0.7234822635425957
+Rates,United States 1Y Bond Yield Historical Data,Moirai,0.6806314204195865
+Rates,United States 2Y Bond Yield Historical Data,Moirai,0.6986396370669405
+Rates,United States 5Y Bond Yield Historical Data,Moirai,0.7091199497510218
+REIT,Dow Jones Equity All REIT Historical Data,Moirai,0.7012250818830548
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Moirai,0.7073246359109804
+REIT,Hui Xian Real Estate Stock Price History,Moirai,0.6894090189497577
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Moirai,0.6167725729913707
+REIT,Yuexiu Real Estate Stock Price History,Moirai,0.6541655652271572
+Equities,BNY Kazakhstan Historical Data,Moirai,0.7100840887476354
+Equities,DJI Historical Data,Moirai,0.7709810536535403
+Equities,Euro Historical Data,Moirai,0.7084522355560348
+Equities,NASDAQ Historical Data,Moirai,0.7526988495272433
+Equities,S&P500 Historical Data,Moirai,0.7716604478182079
+Equities,SGX Price History,Moirai,0.6875860205420339
+ETF,EWM ETF Stock Price History,Moirai,0.7738862584032645
+ETF,HUN ETF Stock Price History,Moirai,0.7219094132762288
+ETF,REET ETF Stock Price History,Moirai,0.7144689841737446
+ETF,VEU ETF Stock Price History,Moirai,0.7524529282296185
+ETF,VWO ETF Stock Price History,Moirai,0.7285133190716341
+Crypto,Bitcoin Historical Data,Moirai,0.6624982301864353
+Crypto,BNB Historical Data,Moirai,0.5767343052842128
+Crypto,Ethereum Historical Data,Moirai,0.706413285923552
+Crypto,XRP Historical Data,Moirai,0.6818291252231516
+FX,AUD_USD Historical Data,Moirai-MoE,0.7827998552988882
+FX,DXY Historical Data,Moirai-MoE,0.7489734005375797
+FX,EUR_USD Historical Data,Moirai-MoE,0.759922321579245
+FX,GBP_USD Historical Data,Moirai-MoE,0.704917268761773
+FX,NZD_USD Historical Data,Moirai-MoE,0.7312467668120488
+FX,USD_CAD Historical Data,Moirai-MoE,0.7492266537535548
+FX,USD_CHF Historical Data,Moirai-MoE,0.7443667746385036
+FX,USD_JPY Historical Data,Moirai-MoE,0.6759082011252187
+EM FX,USD_AED Historical Data,Moirai-MoE,0.6302474251089583
+EM FX,USD_BRL Historical Data,Moirai-MoE,0.7607715210283795
+EM FX,USD_CNH Historical Data,Moirai-MoE,0.6981865261867948
+EM FX,USD_IDR Historical Data,Moirai-MoE,0.7220597166038957
+EM FX,USD_INR Historical Data,Moirai-MoE,0.8010060915575435
+EM FX,USD_KRW Historical Data,Moirai-MoE,0.7168485083915639
+EM FX,USD_MXN Historical Data,Moirai-MoE,0.7172252073317299
+EM FX,USD_MYR Historical Data,Moirai-MoE,0.7010688594746832
+EM FX,USD_QAR Historical Data,Moirai-MoE,0.6674613269319337
+EM FX,USD_SAR Historical Data,Moirai-MoE,0.7479132105344583
+EM FX,USD_SGD Historical Data,Moirai-MoE,0.7339736029148242
+EM FX,USD_THB Historical Data,Moirai-MoE,0.730731016194841
+EM FX,USD_VND Historical Data,Moirai-MoE,0.6818051518484145
+EM FX,USD_ZAR Historical Data,Moirai-MoE,0.7116444395339147
+MSCI,MSCI Argentina Historical Data,Moirai-MoE,0.7211980300567957
+MSCI,MSCI Brazil Price USD Historical Data,Moirai-MoE,0.7799710255919139
+MSCI,MSCI China Net USD Historical Data,Moirai-MoE,0.7095413690175585
+MSCI,MSCI Colombia Historical Data,Moirai-MoE,0.6877897819645321
+MSCI,MSCI Denmark Historical Data,Moirai-MoE,0.7737835349773301
+MSCI,MSCI Egypt Historical Data,Moirai-MoE,0.619841239193703
+MSCI,MSCI EM Eastern Europe Historical Data,Moirai-MoE,0.7749327257657332
+MSCI,MSCI France Historical Data,Moirai-MoE,0.704521532149642
+MSCI,MSCI Germany Historical Data,Moirai-MoE,0.7382647329550206
+MSCI,MSCI India Historical Data,Moirai-MoE,0.7478469028647269
+MSCI,MSCI Indonesia Historical Data,Moirai-MoE,0.7655949942863693
+MSCI,MSCI Japan Net JPY Historical Data,Moirai-MoE,0.7074087464478704
+MSCI,MSCI Malaysia Historical Data,Moirai-MoE,0.7642865794430762
+MSCI,MSCI Philippines Historical Data,Moirai-MoE,0.7529712872609722
+MSCI,MSCI Singapore Historical Data,Moirai-MoE,0.7301184641046159
+MSCI,MSCI Sweden Historical Data,Moirai-MoE,0.7431200859114556
+MSCI,MSCI Thailand Historical Data,Moirai-MoE,0.7356144680065361
+MSCI,MSCI United Kingdom Historical Data,Moirai-MoE,0.7227048966189529
+MSCI,MSCI USA Historical Data,Moirai-MoE,0.7620028892314332
+Rates,Euro Bund Futures Historical Data,Moirai-MoE,0.7242228070467568
+Rates,Japan Gov. Bond Futures Historical Data,Moirai-MoE,0.7060167214631797
+Rates,Malaysia 5Y Bond Yield Historical Data,Moirai-MoE,0.7282818780592865
+Rates,Singapore 2Y Bond Yield Historical Data,Moirai-MoE,0.7422424325843343
+Rates,Singapore 5Y Bond Yield Historical Data,Moirai-MoE,0.7552796249408446
+Rates,UK Gilt Futures Historical Data,Moirai-MoE,0.7213276201961136
+Rates,United States 10Y Bond Yield Historical Data,Moirai-MoE,0.7319414228140613
+Rates,United States 1Y Bond Yield Historical Data,Moirai-MoE,0.7011184038149201
+Rates,United States 2Y Bond Yield Historical Data,Moirai-MoE,0.7117832888695662
+Rates,United States 5Y Bond Yield Historical Data,Moirai-MoE,0.7173622966318104
+REIT,Dow Jones Equity All REIT Historical Data,Moirai-MoE,0.7129363396992684
+REIT,FTSE RAFI US 100 Real Estate Historical Data,Moirai-MoE,0.718663549581658
+REIT,Hui Xian Real Estate Stock Price History,Moirai-MoE,0.6978271051773596
+REIT,Wheeler Real Estate Invest Pref Stock Price History,Moirai-MoE,0.6157657659709024
+REIT,Yuexiu Real Estate Stock Price History,Moirai-MoE,0.6590280617424028
+Equities,BNY Kazakhstan Historical Data,Moirai-MoE,0.7085526464994196
+Equities,DJI Historical Data,Moirai-MoE,0.7820203343603845
+Equities,Euro Historical Data,Moirai-MoE,0.7182900743578977
+Equities,NASDAQ Historical Data,Moirai-MoE,0.7460848584104502
+Equities,S&P500 Historical Data,Moirai-MoE,0.7653264159015793
+Equities,SGX Price History,Moirai-MoE,0.6881405481745868
+ETF,EWM ETF Stock Price History,Moirai-MoE,0.7710336153645738
+ETF,HUN ETF Stock Price History,Moirai-MoE,0.7401419700025547
+ETF,REET ETF Stock Price History,Moirai-MoE,0.7331630633710898
+ETF,VEU ETF Stock Price History,Moirai-MoE,0.7499614358910774
+ETF,VWO ETF Stock Price History,Moirai-MoE,0.7386181430974798
+Crypto,Bitcoin Historical Data,Moirai-MoE,0.6884379076775828
+Crypto,BNB Historical Data,Moirai-MoE,0.5956831314714194
+Crypto,Ethereum Historical Data,Moirai-MoE,0.711741243448283
+Crypto,XRP Historical Data,Moirai-MoE,0.690621710906305

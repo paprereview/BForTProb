@@ -1,0 +1,649 @@
+model,asset_class,dataset,model_ql_0.1,reference_ql_0.1,qss_0.1
+"GARCH(1,1)",FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001090747,0.001065441,-0.023751712
+"GARCH(1,1)",FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00077441,0.000814886,0.049670543
+"GARCH(1,1)",FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000769887,0.000769968,0.000105237
+"GARCH(1,1)",FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000878001,0.000816106,-0.075841629
+"GARCH(1,1)",FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001077227,0.001074823,-0.002237544
+"GARCH(1,1)",FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000628955,0.000638694,0.015249125829317811
+"GARCH(1,1)",FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000941121,0.000961921,0.021623434
+"GARCH(1,1)",FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001217666,0.001224104,0.005259279
+"GARCH(1,1)",EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.0522657233867282e-05,1.0574697531609801e-05,0.004921209
+"GARCH(1,1)",EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001411261,0.001328029,-0.06267319
+"GARCH(1,1)",EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000534357,0.000533431,-0.001735286
+"GARCH(1,1)",EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000680881,0.00066459,-0.024513164
+"GARCH(1,1)",EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000411473,0.000339296,-0.212725682
+"GARCH(1,1)",EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001061385,0.001082908,0.019874588983436636
+"GARCH(1,1)",EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001342578,0.001318897,-0.017954967
+"GARCH(1,1)",EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000819381,0.000811642,-0.009534566
+"GARCH(1,1)",EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000158273,0.000215048,0.26401317238347044
+"GARCH(1,1)",EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.571622526280817e-05,4.731858000394591e-05,0.03386312
+"GARCH(1,1)",EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000586353,0.000587605,0.002130846
+"GARCH(1,1)",EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001016296,0.001023213,0.00675998
+"GARCH(1,1)",EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000387498,0.000347752,-0.11429293
+"GARCH(1,1)",EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001309172,0.001260912,-0.038273919
+"GARCH(1,1)",MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004918247,0.004427881,-0.110745213
+"GARCH(1,1)",MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002570392,0.002521489,-0.019394581
+"GARCH(1,1)",MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002694785,0.002663519,-0.011738519
+"GARCH(1,1)",MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003306925,0.003236058,-0.021899154
+"GARCH(1,1)",MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002997954,0.002979403,-0.00622629
+"GARCH(1,1)",MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00341719,0.003412532,-0.001365056
+"GARCH(1,1)",MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002588845,0.002452558,-0.055569264
+"GARCH(1,1)",MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00172351,0.001662741,-0.036547849
+"GARCH(1,1)",MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001748301,0.00169812,-0.029550905
+"GARCH(1,1)",MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001768094,0.00171451,-0.031253466
+"GARCH(1,1)",MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002186179,0.002203746,0.007971359
+"GARCH(1,1)",MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002727358,0.002647654,-0.030103625
+"GARCH(1,1)",MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001212232,0.001180137,-0.027195982
+"GARCH(1,1)",MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002030974,0.002029524,-0.000714351
+"GARCH(1,1)",MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001658276,0.001550421,-0.069565338
+"GARCH(1,1)",MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001821224,0.001785677,-0.01990674
+"GARCH(1,1)",MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001608198,0.001688286,0.047437338
+"GARCH(1,1)",MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001438888,0.001339256,-0.074392939
+"GARCH(1,1)",MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00197731,0.001959729,-0.008971137
+"GARCH(1,1)",Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000711959,0.00071838,0.008938119
+"GARCH(1,1)",Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00050733,0.000479295,-0.05849179
+"GARCH(1,1)",Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001243152,0.001150687,-0.080356325
+"GARCH(1,1)",Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004625705,0.004362091,-0.060432918
+"GARCH(1,1)",Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002757159,0.002735946,-0.007753256
+"GARCH(1,1)",Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001117094,0.001110674,-0.005779929
+"GARCH(1,1)",Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002553728,0.002500098,-0.021450963
+"GARCH(1,1)",Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001791898,0.001750024,-0.023927277
+"GARCH(1,1)",Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002615207,0.002594481,-0.00798875
+"GARCH(1,1)",Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002880748,0.00286613,-0.005100255
+"GARCH(1,1)",REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002179813,0.002163685,-0.007453879
+"GARCH(1,1)",REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002387267,0.002324939,-0.026808513
+"GARCH(1,1)",REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003946811,0.003763899,-0.048596388
+"GARCH(1,1)",REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009625587,0.009448566,-0.018735283
+"GARCH(1,1)",REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004088563,0.004010576,-0.019445127
+"GARCH(1,1)",Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002998698,0.002910383,-0.030344899
+"GARCH(1,1)",Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001641012,0.001609932,-0.019305091
+"GARCH(1,1)",Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001826847,0.001770332,-0.03192337
+"GARCH(1,1)",Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002634681,0.002626833,-0.002987656
+"GARCH(1,1)",Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00194339,0.001928844,-0.007541489
+"GARCH(1,1)",Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002006107,0.001902807,-0.054288295
+"GARCH(1,1)",ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001762538,0.001651972,-0.066929546
+"GARCH(1,1)",ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003190452,0.00308995,-0.032525547
+"GARCH(1,1)",ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002061816,0.002032119,-0.014613966
+"GARCH(1,1)",ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001761283,0.001683212,-0.046382228
+"GARCH(1,1)",ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001938822,0.001880101,-0.031232734
+"GARCH(1,1)",Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00507934,0.004604321,-0.103168152
+"GARCH(1,1)",Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005816577,0.005281928,-0.10122247
+"GARCH(1,1)",Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006992046,0.006863122,-0.018785093
+"GARCH(1,1)",Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.008691402,0.00773749,-0.123284492
+"GARCH(1,1)",Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.008321965,0.007066142,-0.177723948
+LightGBM,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001060287,0.001065441,0.004837683
+LightGBM,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000820484,0.000814886,-0.006869763
+LightGBM,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00076191,0.000769968,0.010464690943006616
+LightGBM,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000813635,0.000816106,0.003027741
+LightGBM,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001060184,0.001074823,0.013619647248744315
+LightGBM,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000650039,0.000638694,-0.017763446
+LightGBM,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.0009574,0.000961921,0.004699788
+LightGBM,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001324803,0.001224104,-0.082263902
+LightGBM,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.0965679533052984e-05,1.0574697531609801e-05,-0.036973351
+LightGBM,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001312213,0.001328029,0.011909634
+LightGBM,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000540618,0.000533431,-0.013473996
+LightGBM,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000711425,0.00066459,-0.07047181
+LightGBM,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000355758,0.000339296,-0.048519831
+LightGBM,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001060851,0.001082908,0.020367834074619506
+LightGBM,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001327323,0.001318897,-0.006388677
+LightGBM,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000855837,0.000811642,-0.054451277
+LightGBM,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000177832,0.000215048,0.1730622372205125
+LightGBM,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.559605690993562e-05,4.731858000394591e-05,0.036402679325259646
+LightGBM,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000611698,0.000587605,-0.041001688
+LightGBM,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001110184,0.001023213,-0.084997636
+LightGBM,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000364344,0.000347752,-0.047710832
+LightGBM,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001272592,0.001260912,-0.009263669
+LightGBM,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004610727,0.004427881,-0.041294391
+LightGBM,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002504867,0.002521489,0.006592023
+LightGBM,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002734039,0.002663519,-0.026476325
+LightGBM,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003302009,0.003236058,-0.020380129
+LightGBM,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003157772,0.002979403,-0.059867206
+LightGBM,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00334038,0.003412532,0.021143237819961525
+LightGBM,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002638442,0.002452558,-0.075791595
+LightGBM,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001675169,0.001662741,-0.007474495
+LightGBM,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001697923,0.00169812,0.000116282
+LightGBM,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001733438,0.00171451,-0.011040282
+LightGBM,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002223102,0.002203746,-0.008783057
+LightGBM,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002726104,0.002647654,-0.029630101
+LightGBM,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00115686,0.001180137,0.019724616
+LightGBM,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002065524,0.002029524,-0.017738148
+LightGBM,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001567131,0.001550421,-0.01077799
+LightGBM,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001823316,0.001785677,-0.021078113
+LightGBM,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001716911,0.001688286,-0.016954871
+LightGBM,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001341887,0.001339256,-0.001964192
+LightGBM,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001993028,0.001959729,-0.016991656
+LightGBM,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000717159,0.00071838,0.001700066
+LightGBM,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000511102,0.000479295,-0.066362065
+LightGBM,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001107979,0.001150687,0.037114775
+LightGBM,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004411459,0.004362091,-0.011317414
+LightGBM,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002747437,0.002735946,-0.004199823
+LightGBM,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001126434,0.001110674,-0.014189932
+LightGBM,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002489704,0.002500098,0.004157687
+LightGBM,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001790365,0.001750024,-0.023051457
+LightGBM,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002619835,0.002594481,-0.009772394
+LightGBM,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002837851,0.00286613,0.009866355
+LightGBM,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002196682,0.002163685,-0.015250342
+LightGBM,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002428217,0.002324939,-0.044421561
+LightGBM,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003996325,0.003763899,-0.061751492
+LightGBM,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009111191,0.009448566,0.035706441
+LightGBM,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004197582,0.004010576,-0.046628054
+LightGBM,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002966419,0.002910383,-0.019253758
+LightGBM,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001656823,0.001609932,-0.029126101
+LightGBM,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001774549,0.001770332,-0.002381639
+LightGBM,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002685606,0.002626833,-0.022374083
+LightGBM,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001959871,0.001928844,-0.016086116
+LightGBM,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001934887,0.001902807,-0.016859139
+LightGBM,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001670651,0.001651972,-0.011307079
+LightGBM,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003133333,0.00308995,-0.014040079
+LightGBM,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002082579,0.002032119,-0.024831688
+LightGBM,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001754936,0.001683212,-0.042611234
+LightGBM,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001878931,0.001880101,0.000622307
+LightGBM,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004544323,0.004604321,0.013030718883735082
+LightGBM,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005268547,0.005281928,0.002533374
+LightGBM,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006922028,0.006863122,-0.008582964
+LightGBM,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007921149,0.00773749,-0.023736259
+LightGBM,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007011056,0.007066142,0.007795818
+Sundial,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001262425,0.001065441,-0.184884624
+Sundial,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001050874,0.000814886,-0.289596401
+Sundial,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000962267,0.000769968,-0.249750162
+Sundial,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001015541,0.000816106,-0.244373044
+Sundial,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001320586,0.001074823,-0.228655286
+Sundial,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000777326,0.000638694,-0.217055997
+Sundial,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00117569,0.000961921,-0.222231589
+Sundial,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001567507,0.001224104,-0.280534423
+Sundial,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.2729195656023794e-05,1.0574697531609801e-05,-0.203740875
+Sundial,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001667091,0.001328029,-0.255312346
+Sundial,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000631226,0.000533431,-0.183331456
+Sundial,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000821917,0.00066459,-0.236728226
+Sundial,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000360048,0.000339296,-0.061161881
+Sundial,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001286519,0.001082908,-0.188022332
+Sundial,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001661346,0.001318897,-0.25964747
+Sundial,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000972619,0.000811642,-0.198334844
+Sundial,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000142445,0.000215048,0.3376141201940164
+Sundial,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.7610813761207595e-05,4.731858000394591e-05,-0.006175878
+Sundial,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000740012,0.000587605,-0.259369643
+Sundial,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00130608,0.001023213,-0.276449951
+Sundial,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000402172,0.000347752,-0.156488914
+Sundial,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001603293,0.001260912,-0.271534645
+Sundial,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005869622,0.004427881,-0.325605349
+Sundial,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003073238,0.002521489,-0.2188189
+Sundial,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003352342,0.002663519,-0.258614123
+Sundial,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003997615,0.003236058,-0.235334727
+Sundial,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00386876,0.002979403,-0.298501613
+Sundial,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004198335,0.003412532,-0.230269719
+Sundial,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003199331,0.002452558,-0.304487304
+Sundial,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002111689,0.001662741,-0.270005047
+Sundial,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00208934,0.00169812,-0.230383924
+Sundial,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002184041,0.00171451,-0.273857573
+Sundial,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00284719,0.002203746,-0.29197736
+Sundial,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00333222,0.002647654,-0.258555876
+Sundial,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001495605,0.001180137,-0.267314061
+Sundial,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002704346,0.002029524,-0.332502729
+Sundial,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001763469,0.001550421,-0.137413047
+Sundial,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002219819,0.001785677,-0.243124077
+Sundial,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002153357,0.001688286,-0.275469174
+Sundial,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001578165,0.001339256,-0.178389366
+Sundial,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002353989,0.001959729,-0.201180614
+Sundial,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000827989,0.00071838,-0.152577824
+Sundial,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000566192,0.000479295,-0.181303132
+Sundial,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001260299,0.001150687,-0.095257871
+Sundial,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00491705,0.004362091,-0.12722317
+Sundial,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003578631,0.002735946,-0.308004779
+Sundial,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001339659,0.001110674,-0.206167433
+Sundial,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003177933,0.002500098,-0.271123254
+Sundial,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002091644,0.001750024,-0.19520827
+Sundial,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00318403,0.002594481,-0.227231955
+Sundial,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003493656,0.00286613,-0.218945603
+Sundial,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002592422,0.002163685,-0.198150886
+Sundial,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002826498,0.002324939,-0.215729918
+Sundial,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004578166,0.003763899,-0.216336041
+Sundial,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.010127078016670855,0.009448566,-0.071811128
+Sundial,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004779521,0.004010576,-0.191729067
+Sundial,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003703385,0.002910383,-0.272473257
+Sundial,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001991911,0.001609932,-0.237263965
+Sundial,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00224429,0.001770332,-0.267722599
+Sundial,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003202582,0.002626833,-0.219179645
+Sundial,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002320397,0.001928844,-0.202999066
+Sundial,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002497646,0.001902807,-0.312611584
+Sundial,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001987855,0.001651972,-0.203322371
+Sundial,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003879546,0.00308995,-0.255536782
+Sundial,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002424237,0.002032119,-0.192960236
+Sundial,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00204212,0.001683212,-0.21322791
+Sundial,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002300104,0.001880101,-0.223393942
+Sundial,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005475144,0.004604321,-0.189131807
+Sundial,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006439263,0.005281928,-0.219112387
+Sundial,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.008660991,0.006863122,-0.261960824
+Sundial,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.009338528,0.00773749,-0.206919658
+Sundial,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.008818278,0.007066142,-0.247962131
+Lag-Llama,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001085206,0.001065441,-0.018551318
+Lag-Llama,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000846327,0.000814886,-0.038583797
+Lag-Llama,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000783202,0.000769968,-0.017188279
+Lag-Llama,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000857859,0.000816106,-0.051161078
+Lag-Llama,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001112701,0.001074823,-0.035241429
+Lag-Llama,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000651656,0.000638694,-0.020294825
+Lag-Llama,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000992432,0.000961921,-0.031719416
+Lag-Llama,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001281711,0.001224104,-0.047060594
+Lag-Llama,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.1054267532321237e-05,1.0574697531609801e-05,-0.045350706
+Lag-Llama,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001378829,0.001328029,-0.038252196
+Lag-Llama,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000554533,0.000533431,-0.039558341
+Lag-Llama,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000706199,0.00066459,-0.062608489
+Lag-Llama,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000345091,0.000339296,-0.017081191
+Lag-Llama,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001092782,0.001082908,-0.009118388
+Lag-Llama,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001343297,0.001318897,-0.018499954
+Lag-Llama,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000842383,0.000811642,-0.037875032
+Lag-Llama,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00015614,0.000215048,0.27392938245505727
+Lag-Llama,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.733001959689869e-05,4.731858000394591e-05,-0.000241757
+Lag-Llama,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000618008,0.000587605,-0.051740663
+Lag-Llama,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001084286,0.001023213,-0.059687352
+Lag-Llama,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000362065,0.000347752,-0.041158684
+Lag-Llama,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001271892,0.001260912,-0.008708545
+Lag-Llama,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004584036,0.004427881,-0.035266458
+Lag-Llama,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.0025746,0.002521489,-0.021063611
+Lag-Llama,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002752638,0.002663519,-0.033459138
+Lag-Llama,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003288302,0.003236058,-0.016144234
+Lag-Llama,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00305877,0.002979403,-0.026638313
+Lag-Llama,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003498841,0.003412532,-0.025291868
+Lag-Llama,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002580452,0.002452558,-0.052147004
+Lag-Llama,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001749921,0.001662741,-0.052432076
+Lag-Llama,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001778846,0.00169812,-0.047538521
+Lag-Llama,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001797526,0.00171451,-0.048419928
+Lag-Llama,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002316035,0.002203746,-0.050953713
+Lag-Llama,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002786944,0.002647654,-0.052609155
+Lag-Llama,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001216212,0.001180137,-0.030568154
+Lag-Llama,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002129822,0.002029524,-0.04941974
+Lag-Llama,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001576825,0.001550421,-0.017030665
+Lag-Llama,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001890276,0.001785677,-0.058576196
+Lag-Llama,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001768389,0.001688286,-0.047446541
+Lag-Llama,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001372547,0.001339256,-0.024857857
+Lag-Llama,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002044494,0.001959729,-0.043253224
+Lag-Llama,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000723827,0.00071838,-0.007583141
+Lag-Llama,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000486675,0.000479295,-0.015399079
+Lag-Llama,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001134005,0.001150687,0.014497240088771624
+Lag-Llama,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004419527,0.004362091,-0.013167117
+Lag-Llama,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00290288,0.002735946,-0.061014975
+Lag-Llama,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001110316,0.001110674,0.000321822
+Lag-Llama,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002503475,0.002500098,-0.001350655
+Lag-Llama,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001793726,0.001750024,-0.024971893
+Lag-Llama,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00260708,0.002594481,-0.004856308
+Lag-Llama,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002831928,0.00286613,0.011933175
+Lag-Llama,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00221008,0.002163685,-0.021442364
+Lag-Llama,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002420795,0.002324939,-0.041229168
+Lag-Llama,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003973815,0.003763899,-0.055770992
+Lag-Llama,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00905015,0.009448566,0.04216683
+Lag-Llama,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004074217,0.004010576,-0.015868056
+Lag-Llama,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003011307,0.002910383,-0.034677063
+Lag-Llama,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001691006,0.001609932,-0.050358653
+Lag-Llama,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001886892,0.001770332,-0.065840579
+Lag-Llama,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002762007,0.002626833,-0.051458896
+Lag-Llama,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00201984,0.001928844,-0.047176472
+Lag-Llama,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00197659,0.001902807,-0.038776145
+Lag-Llama,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00168037,0.001651972,-0.017190352
+Lag-Llama,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.0031363,0.00308995,-0.015000036
+Lag-Llama,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002090061,0.002032119,-0.028513185
+Lag-Llama,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001711902,0.001683212,-0.017044475
+Lag-Llama,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001942735,0.001880101,-0.033314337
+Lag-Llama,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004707384,0.004604321,-0.02238399
+Lag-Llama,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005486299,0.005281928,-0.038692644
+Lag-Llama,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007232569,0.006863122,-0.053830797
+Lag-Llama,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007969139,0.00773749,-0.029938633
+Lag-Llama,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007333939,0.007066142,-0.037898535
+Chronos-T5,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001952361,0.001065441,-0.832443481
+Chronos-T5,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001534701,0.000814886,-0.883332756
+Chronos-T5,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001421273,0.000769968,-0.845886321
+Chronos-T5,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001520346,0.000816106,-0.862926685
+Chronos-T5,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002039243,0.001074823,-0.897283036
+Chronos-T5,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001139363,0.000638694,-0.783895213
+Chronos-T5,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001769993,0.000961921,-0.840061516
+Chronos-T5,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002380297,0.001224104,-0.944522472
+Chronos-T5,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.3523580958050355e-05,1.0574697531609801e-05,-0.278862201
+Chronos-T5,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002398437,0.001328029,-0.806012459
+Chronos-T5,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000952234,0.000533431,-0.785111591
+Chronos-T5,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00109421,0.00066459,-0.646443817
+Chronos-T5,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000493416,0.000339296,-0.454233697
+Chronos-T5,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001958965,0.001082908,-0.808985977
+Chronos-T5,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002193651,0.001318897,-0.663246138
+Chronos-T5,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001287853,0.000811642,-0.58672569
+Chronos-T5,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000158738,0.000215048,0.2618504829139011
+Chronos-T5,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,5.2394191217201294e-05,4.731858000394591e-05,-0.107264656
+Chronos-T5,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001065141,0.000587605,-0.812681559
+Chronos-T5,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001953489,0.001023213,-0.909171002
+Chronos-T5,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000490958,0.000347752,-0.411803213
+Chronos-T5,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002341114,0.001260912,-0.85668346
+Chronos-T5,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.009176273,0.004427881,-1.072384891
+Chronos-T5,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004362728,0.002521489,-0.730219001
+Chronos-T5,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004492367,0.002663519,-0.686628759
+Chronos-T5,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005808189,0.003236058,-0.794834539
+Chronos-T5,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005534272,0.002979403,-0.857510029
+Chronos-T5,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005479902,0.003412532,-0.605816928
+Chronos-T5,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004738691,0.002452558,-0.932141848
+Chronos-T5,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003208828,0.001662741,-0.929842703
+Chronos-T5,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002972386,0.00169812,-0.750398224
+Chronos-T5,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003315878,0.00171451,-0.934009591
+Chronos-T5,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003999129,0.002203746,-0.81469616
+Chronos-T5,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004622818,0.002647654,-0.746005389
+Chronos-T5,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002026094,0.001180137,-0.716828936
+Chronos-T5,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004112105,0.002029524,-1.026142948
+Chronos-T5,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002475165,0.001550421,-0.59644767
+Chronos-T5,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003301359,0.001785677,-0.848799469
+Chronos-T5,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003076495,0.001688286,-0.822259046
+Chronos-T5,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00226292,0.001339256,-0.689683988
+Chronos-T5,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003196864,0.001959729,-0.631278611
+Chronos-T5,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001253172,0.00071838,-0.744442715
+Chronos-T5,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000768124,0.000479295,-0.602612491
+Chronos-T5,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001990411,0.001150687,-0.729758437
+Chronos-T5,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006513432,0.004362091,-0.493190228
+Chronos-T5,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005465882,0.002735946,-0.997802948
+Chronos-T5,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001944486,0.001110674,-0.750726072
+Chronos-T5,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005157935,0.002500098,-1.063093122
+Chronos-T5,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003250572,0.001750024,-0.857443861
+Chronos-T5,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005206992,0.002594481,-1.006949531
+Chronos-T5,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005990953,0.00286613,-1.09025899
+Chronos-T5,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003855108,0.002163685,-0.781732179
+Chronos-T5,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004125529,0.002324939,-0.774467626
+Chronos-T5,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004775237,0.003763899,-0.268694308
+Chronos-T5,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.013893407981587683,0.009448566,-0.470425057
+Chronos-T5,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.005852302,0.004010576,-0.459217256
+Chronos-T5,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005344436,0.002910383,-0.836334164
+Chronos-T5,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002798349,0.001609932,-0.738178433
+Chronos-T5,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003230904,0.001770332,-0.825026529
+Chronos-T5,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004373224,0.002626833,-0.664827345
+Chronos-T5,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003163839,0.001928844,-0.640277478
+Chronos-T5,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003278457,0.001902807,-0.722958437
+Chronos-T5,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002738968,0.001651972,-0.657998491
+Chronos-T5,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.005555058,0.00308995,-0.797782479
+Chronos-T5,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003699893,0.002032119,-0.820707413
+Chronos-T5,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002998192,0.001683212,-0.781232237
+Chronos-T5,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003408176,0.001880101,-0.812762422
+Chronos-T5,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007412368,0.004604321,-0.609872227
+Chronos-T5,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.009131881,0.005281928,-0.728891759
+Chronos-T5,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.012445369,0.006863122,-0.813368567
+Chronos-T5,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.013805269022954158,0.00773749,-0.784205189
+Chronos-T5,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.011776308209454241,0.007066142,-0.666582356
+Toto,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001100484,0.001065441,-0.032890843
+Toto,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000817224,0.000814886,-0.002869475
+Toto,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000774692,0.000769968,-0.006135021
+Toto,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000834475,0.000816106,-0.022508421
+Toto,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001096924,0.001074823,-0.020563119
+Toto,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00064607,0.000638694,-0.011548253
+Toto,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000973118,0.000961921,-0.011640512
+Toto,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001227513,0.001224104,-0.002784888
+Toto,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.0518662800735508e-05,1.0574697531609801e-05,0.005298944
+Toto,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001334241,0.001328029,-0.004677726
+Toto,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000544675,0.000533431,-0.021078563
+Toto,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000677845,0.00066459,-0.01994402
+Toto,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000304918,0.000339296,0.10132254727787837
+Toto,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001107169,0.001082908,-0.022403581
+Toto,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001337425,0.001318897,-0.014047818
+Toto,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000817614,0.000811642,-0.007358326
+Toto,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000158764,0.000215048,0.2617309951933138
+Toto,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.443996142797115e-05,4.731858000394591e-05,0.060834847
+Toto,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00059749,0.000587605,-0.01682208
+Toto,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001027604,0.001023213,-0.004291118
+Toto,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000362482,0.000347752,-0.042358484
+Toto,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001301173,0.001260912,-0.031930353
+Toto,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004622554,0.004427881,-0.043965269
+Toto,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002592654,0.002521489,-0.028223529
+Toto,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002831345,0.002663519,-0.063009199
+Toto,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003322054,0.003236058,-0.02657429
+Toto,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003007811,0.002979403,-0.009534529
+Toto,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003368514,0.003412532,0.012898996207131752
+Toto,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002516524,0.002452558,-0.026081204
+Toto,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001799607,0.001662741,-0.082313533
+Toto,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001757173,0.00169812,-0.034775662
+Toto,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001783155,0.00171451,-0.040038185
+Toto,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002178021,0.002203746,0.011673099221083172
+Toto,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002844981,0.002647654,-0.074529286
+Toto,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001215196,0.001180137,-0.029706895
+Toto,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002044804,0.002029524,-0.007529051
+Toto,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001644938,0.001550421,-0.060962165
+Toto,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001942483,0.001785677,-0.087812873
+Toto,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001645266,0.001688286,0.025481273
+Toto,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001425629,0.001339256,-0.064492971
+Toto,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002002304,0.001959729,-0.021724825
+Toto,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000755323,0.00071838,-0.051425061
+Toto,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000484799,0.000479295,-0.011484723
+Toto,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001138596,0.001150687,0.010507959
+Toto,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003883862,0.004362091,0.10963315206028779
+Toto,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002781958,0.002735946,-0.016817546
+Toto,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001181283,0.001110674,-0.063573396
+Toto,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00258035,0.002500098,-0.03209939
+Toto,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001794408,0.001750024,-0.025361525
+Toto,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002629535,0.002594481,-0.013511098
+Toto,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002918076,0.00286613,-0.018124084
+Toto,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002248626,0.002163685,-0.039257505
+Toto,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002409968,0.002324939,-0.036572481
+Toto,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00381305,0.003763899,-0.013058485
+Toto,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009517381,0.009448566,-0.007283138
+Toto,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004063651,0.004010576,-0.013233564
+Toto,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003026139,0.002910383,-0.039773541
+Toto,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001687392,0.001609932,-0.048114179
+Toto,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001922291,0.001770332,-0.085836179
+Toto,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002635866,0.002626833,-0.003438548
+Toto,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001965449,0.001928844,-0.018978087
+Toto,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001945048,0.001902807,-0.022199298
+Toto,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001642941,0.001651972,0.005467124
+Toto,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003193336,0.00308995,-0.033458654
+Toto,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002107539,0.002032119,-0.037114375
+Toto,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001785308,0.001683212,-0.060655446
+Toto,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001997485,0.001880101,-0.062434926
+Toto,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004555757,0.004604321,0.010547350397276944
+Toto,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005294254,0.005281928,-0.00233372
+Toto,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006912807,0.006863122,-0.007239515
+Toto,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007863578,0.00773749,-0.016295828
+Toto,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007030087,0.007066142,0.005102484
+TimesFM,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001072518,0.001065441,-0.006642649
+TimesFM,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000790526,0.000814886,0.029893091
+TimesFM,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000769979,0.000769968,-1.42E-05
+TimesFM,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000818245,0.000816106,-0.002620357
+TimesFM,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001075659,0.001074823,-0.000778373
+TimesFM,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00062809,0.000638694,0.016602552436937423
+TimesFM,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000948562,0.000961921,0.013887625241887913
+TimesFM,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001243401,0.001224104,-0.015763966
+TimesFM,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.0454479314290193e-05,1.0574697531609801e-05,0.011368478
+TimesFM,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001323133,0.001328029,0.00368691
+TimesFM,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000544559,0.000533431,-0.020861489
+TimesFM,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000666339,0.00066459,-0.002631476
+TimesFM,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000310497,0.000339296,0.084877962
+TimesFM,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00108502,0.001082908,-0.001950854
+TimesFM,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001335894,0.001318897,-0.012887166
+TimesFM,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000812488,0.000811642,-0.001042801
+TimesFM,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000155454,0.000215048,0.27711884845100987
+TimesFM,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.3983306148495554e-05,4.731858000394591e-05,0.070485502
+TimesFM,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000585113,0.000587605,0.00424143
+TimesFM,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001018813,0.001023213,0.004299821
+TimesFM,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000359587,0.000347752,-0.034031181
+TimesFM,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001282107,0.001260912,-0.016809915
+TimesFM,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004445405,0.004427881,-0.003957674
+TimesFM,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002515283,0.002521489,0.002460996
+TimesFM,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002716102,0.002663519,-0.019741957
+TimesFM,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00329802,0.003236058,-0.019147353
+TimesFM,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00293908,0.002979403,0.013533970981701615
+TimesFM,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003280544,0.003412532,0.038677345
+TimesFM,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002465284,0.002452558,-0.005188703
+TimesFM,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001674406,0.001662741,-0.007015724
+TimesFM,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001714123,0.00169812,-0.009424147
+TimesFM,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001726382,0.00171451,-0.006924425
+TimesFM,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002178754,0.002203746,0.01134063
+TimesFM,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002689142,0.002647654,-0.01566997
+TimesFM,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001150129,0.001180137,0.025427489292888517
+TimesFM,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002019499,0.002029524,0.004939332
+TimesFM,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001545058,0.001550421,0.003458841
+TimesFM,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001816216,0.001785677,-0.017102007
+TimesFM,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00159318,0.001688286,0.056333084
+TimesFM,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001311951,0.001339256,0.020388778
+TimesFM,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001938045,0.001959729,0.011064919906879966
+TimesFM,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000728269,0.00071838,-0.013765863
+TimesFM,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000485475,0.000479295,-0.012895137
+TimesFM,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001127913,0.001150687,0.019791395683713464
+TimesFM,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004345532,0.004362091,0.003796225
+TimesFM,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002674452,0.002735946,0.022476425580572168
+TimesFM,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001125519,0.001110674,-0.013366249
+TimesFM,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002522158,0.002500098,-0.008823411
+TimesFM,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001781447,0.001750024,-0.017955667
+TimesFM,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002587576,0.002594481,0.002661402
+TimesFM,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002863211,0.00286613,0.001018202
+TimesFM,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002153929,0.002163685,0.004509348
+TimesFM,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002326298,0.002324939,-0.000584526
+TimesFM,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003791295,0.003763899,-0.007278626
+TimesFM,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009246764,0.009448566,0.021357882
+TimesFM,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004043459,0.004010576,-0.00819903
+TimesFM,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002913846,0.002910383,-0.001189964
+TimesFM,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001614452,0.001609932,-0.002807964
+TimesFM,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001788881,0.001770332,-0.010477457
+TimesFM,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002607993,0.002626833,0.007172216
+TimesFM,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001908669,0.001928844,0.010459380002275975
+TimesFM,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001898532,0.001902807,0.002246846
+TimesFM,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001633963,0.001651972,0.010902093403668434
+TimesFM,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003125643,0.00308995,-0.011551158
+TimesFM,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002036437,0.002032119,-0.002124881
+TimesFM,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001691983,0.001683212,-0.005210785
+TimesFM,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001857269,0.001880101,0.012144015
+TimesFM,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004562021,0.004604321,0.009186944
+TimesFM,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005333073,0.005281928,-0.009683009
+TimesFM,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006883342,0.006863122,-0.002946295
+TimesFM,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00778304,0.00773749,-0.005886996
+TimesFM,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007038695,0.007066142,0.003884351
+Moirai,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001072737,0.001065441,-0.006847723
+Moirai,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000797491,0.000814886,0.021346352
+Moirai,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00076191,0.000769968,0.010464991
+Moirai,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000819376,0.000816106,-0.004005994
+Moirai,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001079039,0.001074823,-0.003922748
+Moirai,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000633888,0.000638694,0.007524355
+Moirai,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000947419,0.000961921,0.015075656556358452
+Moirai,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001218936,0.001224104,0.004221694
+Moirai,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.0571229473412366e-05,1.0574697531609801e-05,0.000327958
+Moirai,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001332223,0.001328029,-0.003157973
+Moirai,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000543025,0.000533431,-0.017986239
+Moirai,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000667556,0.00066459,-0.004463193
+Moirai,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000316041,0.000339296,0.068538552
+Moirai,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001079942,0.001082908,0.002738268
+Moirai,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001337004,0.001318897,-0.013728862
+Moirai,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00080852,0.000811642,0.003846814
+Moirai,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000148564,0.000215048,0.3091611422012245
+Moirai,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.402222098662906e-05,4.731858000394591e-05,0.069663101
+Moirai,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000588958,0.000587605,-0.002302123
+Moirai,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001014707,0.001023213,0.008312587
+Moirai,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000358473,0.000347752,-0.030827748
+Moirai,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001272735,0.001260912,-0.009376783
+Moirai,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004420098,0.004427881,0.001757687
+Moirai,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002510769,0.002521489,0.004251482
+Moirai,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002699184,0.002663519,-0.01339016
+Moirai,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003265109,0.003236058,-0.008977243
+Moirai,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002948162,0.002979403,0.010485948652090293
+Moirai,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003341533,0.003412532,0.020805317691225733
+Moirai,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002462547,0.002452558,-0.004072725
+Moirai,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001685187,0.001662741,-0.013499515
+Moirai,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001731695,0.00169812,-0.019771882
+Moirai,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001717761,0.00171451,-0.001896329
+Moirai,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002153777,0.002203746,0.022674619480651192
+Moirai,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002683383,0.002647654,-0.013494691
+Moirai,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00116232,0.001180137,0.015097953716533441
+Moirai,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002019174,0.002029524,0.005099549
+Moirai,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001563339,0.001550421,-0.008332472
+Moirai,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001826881,0.001785677,-0.023074486
+Moirai,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001604408,0.001688286,0.049682452
+Moirai,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001350424,0.001339256,-0.008339065
+Moirai,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001934232,0.001959729,0.013010414508337953
+Moirai,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000730729,0.00071838,-0.017190132
+Moirai,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000482608,0.000479295,-0.006913727
+Moirai,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001130874,0.001150687,0.017218473933098277
+Moirai,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004294278,0.004362091,0.015546011315512254
+Moirai,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002712078,0.002735946,0.008724154
+Moirai,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001131548,0.001110674,-0.018794511
+Moirai,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002526177,0.002500098,-0.01043111
+Moirai,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001752255,0.001750024,-0.001274552
+Moirai,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00256523,0.002594481,0.011274347117275485
+Moirai,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002861281,0.00286613,0.001691575
+Moirai,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002150585,0.002163685,0.006054866
+Moirai,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00233256,0.002324939,-0.00327787
+Moirai,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003765486,0.003763899,-0.000421703
+Moirai,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009323594,0.009448566,0.013226583295158578
+Moirai,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004028513,0.004010576,-0.004472358
+Moirai,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002918229,0.002910383,-0.002695932
+Moirai,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001608719,0.001609932,0.000753446
+Moirai,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001800984,0.001770332,-0.017314132
+Moirai,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002586441,0.002626833,0.015376725126133972
+Moirai,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001906464,0.001928844,0.011602420331152885
+Moirai,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001892738,0.001902807,0.005291667
+Moirai,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001622072,0.001651972,0.018099969178622777
+Moirai,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003107817,0.00308995,-0.005782281
+Moirai,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.002027807,0.002032119,0.002121765
+Moirai,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001692007,0.001683212,-0.005225029
+Moirai,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001880466,0.001880101,-0.000194412
+Moirai,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004577656,0.004604321,0.00579127
+Moirai,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005278625,0.005281928,0.000625186
+Moirai,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00685303,0.006863122,0.001470441
+Moirai,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007709163,0.00773749,0.003660992
+Moirai,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007097765,0.007066142,-0.004475211
+Moirai-MoE,FX,AUD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001101963,0.001065441,-0.034278453
+Moirai-MoE,FX,DXY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000813192,0.000814886,0.002078911
+Moirai-MoE,FX,EUR_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000778002,0.000769968,-0.01043438
+Moirai-MoE,FX,GBP_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000836241,0.000816106,-0.024671287
+Moirai-MoE,FX,NZD_USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001105548,0.001074823,-0.028586551
+Moirai-MoE,FX,USD_CAD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000648466,0.000638694,-0.015300631
+Moirai-MoE,FX,USD_CHF Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000963346,0.000961921,-0.001481397
+Moirai-MoE,FX,USD_JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001256669,0.001224104,-0.026602885
+Moirai-MoE,EM FX,USD_AED Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,1.1054906954231477e-05,1.0574697531609801e-05,-0.045411173
+Moirai-MoE,EM FX,USD_BRL Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001370891,0.001328029,-0.032274951
+Moirai-MoE,EM FX,USD_CNH Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000550127,0.000533431,-0.031299049
+Moirai-MoE,EM FX,USD_IDR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00068179,0.00066459,-0.025880197
+Moirai-MoE,EM FX,USD_INR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000319035,0.000339296,0.05971361
+Moirai-MoE,EM FX,USD_KRW Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.00109737,0.001082908,-0.013354725
+Moirai-MoE,EM FX,USD_MXN Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001355291,0.001318897,-0.027594142
+Moirai-MoE,EM FX,USD_MYR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000817243,0.000811642,-0.006901219
+Moirai-MoE,EM FX,USD_QAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000146766,0.000215048,0.3175202270830657
+Moirai-MoE,EM FX,USD_SAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,4.484703049170876e-05,4.731858000394591e-05,0.052232115
+Moirai-MoE,EM FX,USD_SGD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000595501,0.000587605,-0.013438096
+Moirai-MoE,EM FX,USD_THB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001041597,0.001023213,-0.017966875
+Moirai-MoE,EM FX,USD_VND Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000366956,0.000347752,-0.055222039
+Moirai-MoE,EM FX,USD_ZAR Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001313792,0.001260912,-0.041938425
+Moirai-MoE,MSCI,MSCI Argentina Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004496216,0.004427881,-0.015433037
+Moirai-MoE,MSCI,MSCI Brazil Price USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002578826,0.002521489,-0.022739554
+Moirai-MoE,MSCI,MSCI China Net USD Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002804754,0.002663519,-0.053025965
+Moirai-MoE,MSCI,MSCI Colombia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003374585,0.003236058,-0.042807191
+Moirai-MoE,MSCI,MSCI Denmark Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003010785,0.002979403,-0.010532829
+Moirai-MoE,MSCI,MSCI Egypt Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003419483,0.003412532,-0.002036965
+Moirai-MoE,MSCI,MSCI EM Eastern Europe Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002549709,0.002452558,-0.039611711
+Moirai-MoE,MSCI,MSCI France Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001717312,0.001662741,-0.032820315
+Moirai-MoE,MSCI,MSCI Germany Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001777525,0.00169812,-0.046760355
+Moirai-MoE,MSCI,MSCI India Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001764996,0.00171451,-0.029446647
+Moirai-MoE,MSCI,MSCI Indonesia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002176473,0.002203746,0.012375890828559721
+Moirai-MoE,MSCI,MSCI Japan Net JPY Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002790016,0.002647654,-0.053769261
+Moirai-MoE,MSCI,MSCI Malaysia Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001187183,0.001180137,-0.005970284
+Moirai-MoE,MSCI,MSCI Philippines Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002065877,0.002029524,-0.017912286
+Moirai-MoE,MSCI,MSCI Singapore Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001621506,0.001550421,-0.045848861
+Moirai-MoE,MSCI,MSCI Sweden Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001883983,0.001785677,-0.055052247
+Moirai-MoE,MSCI,MSCI Thailand Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001597984,0.001688286,0.053487541202915545
+Moirai-MoE,MSCI,MSCI United Kingdom Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001372188,0.001339256,-0.024589148
+Moirai-MoE,MSCI,MSCI USA Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001972602,0.001959729,-0.006568996
+Moirai-MoE,Rates,Euro Bund Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000751216,0.00071838,-0.045708364
+Moirai-MoE,Rates,Japan Gov. Bond Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.000491737,0.000479295,-0.025960406
+Moirai-MoE,Rates,Malaysia 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001140091,0.001150687,0.009208092
+Moirai-MoE,Rates,Singapore 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004299594,0.004362091,0.014327387
+Moirai-MoE,Rates,Singapore 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002712521,0.002735946,0.008561917
+Moirai-MoE,Rates,UK Gilt Futures Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001158544,0.001110674,-0.043100061
+Moirai-MoE,Rates,United States 10Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002560083,0.002500098,-0.023993072
+Moirai-MoE,Rates,United States 1Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001781878,0.001750024,-0.018201666
+Moirai-MoE,Rates,United States 2Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002640951,0.002594481,-0.017911091
+Moirai-MoE,Rates,United States 5Y Bond Yield Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002903873,0.00286613,-0.01316881
+Moirai-MoE,REIT,Dow Jones Equity All REIT Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002171464,0.002163685,-0.003594942
+Moirai-MoE,REIT,FTSE RAFI US 100 Real Estate Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002375124,0.002324939,-0.021585357
+Moirai-MoE,REIT,Hui Xian Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003977849,0.003763899,-0.056842812
+Moirai-MoE,REIT,Wheeler Real Estate Invest Pref Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.009421457,0.009448566,0.002869128
+Moirai-MoE,REIT,Yuexiu Real Estate Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.004178334,0.004010576,-0.041828773
+Moirai-MoE,Equities,BNY Kazakhstan Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.003031871,0.002910383,-0.041742772
+Moirai-MoE,Equities,DJI Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001628598,0.001609932,-0.011594436
+Moirai-MoE,Equities,Euro Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001832841,0.001770332,-0.03530917
+Moirai-MoE,Equities,NASDAQ Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.002646818,0.002626833,-0.007607796
+Moirai-MoE,Equities,S&P500 Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.001936132,0.001928844,-0.003778513
+Moirai-MoE,Equities,SGX Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001940069,0.001902807,-0.019582515
+Moirai-MoE,ETF,EWM ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001652382,0.001651972,-0.000248118
+Moirai-MoE,ETF,HUN ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.003222665,0.00308995,-0.042950545
+Moirai-MoE,ETF,REET ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.00206709,0.002032119,-0.017209275
+Moirai-MoE,ETF,VEU ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001738167,0.001683212,-0.032648824
+Moirai-MoE,ETF,VWO ETF Stock Price History_no_preprocess_lookback-250_horizon-20_slide-1,0.001927494,0.001880101,-0.025207891
+Moirai-MoE,Crypto,Bitcoin Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.004651195,0.004604321,-0.010180404
+Moirai-MoE,Crypto,BNB Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.005334321,0.005281928,-0.009919348
+Moirai-MoE,Crypto,Ethereum Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.006971531,0.006863122,-0.01579593
+Moirai-MoE,Crypto,Solana Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007861373,0.00773749,-0.016010865
+Moirai-MoE,Crypto,XRP Historical Data_no_preprocess_lookback-250_horizon-20_slide-1,0.007204387,0.007066142,-0.019564402

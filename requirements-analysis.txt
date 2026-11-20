@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+scikit-posthocs
+matplotlib
+seaborn
+scikit-learn
+statsmodels
+arch
+lightgbm
+jupyterlab
